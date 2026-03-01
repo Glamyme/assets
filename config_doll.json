@@ -1,0 +1,21 @@
+{
+  "usuario": "neoconejo",
+  "repositorio": "-assets",
+  "servidor_imagenes": "https://raw.githubusercontent.com/neoconejo/-assets/main/",
+  "salon_belleza": {
+    "pieles": [
+      { "id": 1, "nombre": "Pale", "archivo": "system/bodies/body_skin_light_pale.webp" },
+      { "id": 2, "nombre": "Honey", "archivo": "system/bodies/body_skin_light_honey.webp" },
+      { "id": 3, "nombre": "Cinnamon", "archivo": "system/bodies/body_skin_med_cinnamon.webp" },
+      { "id": 4, "nombre": "Ebony", "archivo": "system/bodies/body_skin_dark_ebony.webp" },
+      { "id": 5, "nombre": "Deep Ebony", "archivo": "system/bodies/body_skin_dark_deep.webp" }
+    ],
+    "rostros_hd": [
+      { "id": "f1", "tono": 1, "archivo": "system/heads/head_v1_tone_1.webp" },
+      { "id": "f2", "tono": 2, "archivo": "system/heads/head_v1_tone_2.webp" },
+      { "id": "f3", "tono": 3, "archivo": "system/heads/head_v1_tone_3.webp" },
+      { "id": "f4", "tono": 4, "archivo": "system/heads/head_v1_tone_4.webp" },
+      { "id": "f5", "tono": 5, "archivo": "system/heads/head_v1_tone_5.webp" }
+    ]
+  }
+}
