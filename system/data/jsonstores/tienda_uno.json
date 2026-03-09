@@ -1,0 +1,11 @@
+{
+  "botonAcceso": {
+    "img": "system/shop/thumbs/thumb_01.webp",
+    "nombre": "Entrar a la Tienda"
+  },
+  "productos": [
+    { "id": 1, "nombre": "Top Glam", "precio": 120, "img": "system/shop/items/item_01.webp" },
+    { "id": 2, "nombre": "Falda Chic", "precio": 150, "img": "system/shop/items/item_02.webp" },
+    { "id": 3, "nombre": "Botas Star", "precio": 200, "img": "system/shop/items/item_03.webp" }
+  ]
+}
