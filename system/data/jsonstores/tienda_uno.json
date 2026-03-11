@@ -4,8 +4,8 @@
     "nombre": "Entrar a la Tienda"
   },
   "productos": [
-    { "id": 1, "nombre": "Top Glam", "precio": 120, "img": "system/shop/items/item_01.webp" },
-    { "id": 2, "nombre": "Falda Chic", "precio": 150, "img": "system/shop/items/item_02.webp" },
-    { "id": 3, "nombre": "Botas Star", "precio": 200, "img": "system/shop/items/item_03.webp" }
+    { "id": 1, "nombre": "Zebra Pants", "precio": 120, "cat": "pants", "img": "system/shop/items/item_01.webp" },
+    { "id": 2, "nombre": "Zebra Top", "precio": 150, "cat": "top", "img": "system/shop/items/item_02.webp" },
+    { "id": 3, "nombre": "Princess Dress", "precio": 200, "cat": "dress", "img": "system/shop/items/item_03.webp" }
   ]
 }
