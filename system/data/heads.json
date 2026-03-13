@@ -17,11 +17,11 @@
       "nombre": "Pro Face Glam",
       "folder": "system/heads/head_pro_one",
       "versiones": [
-        "system/heads/head_pro_one/face1_tone1.webp",
-        "system/heads/head_pro_one/face1_tone2.webp",
-        "system/heads/head_pro_one/face1_tone3.webp",
-        "system/heads/head_pro_one/face1_tone4.webp",
-        "system/heads/head_pro_one/face1_tone5.webp"
+        "system/heads/Head_pro_one/face1_tone1.webp",
+        "system/heads/Head_pro_one/face1_tone2.webp",
+        "system/heads/Head_pro_one/face1_tone3.webp",
+        "system/heads/Head_pro_one/face1_tone4.webp",
+        "system/heads/Head_pro_one/face1_tone5.webp"
       ]
     }
   ]
