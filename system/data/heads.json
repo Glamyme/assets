@@ -1,0 +1,28 @@
+{
+  "head_styles": [
+    {
+      "id": "standard",
+      "nombre": "Cara Base",
+      "folder": "system/heads",
+      "versiones": [
+        "system/heads/head_v1_tone_1.webp",
+        "system/heads/head_v1_tone_2.webp",
+        "system/heads/head_v1_tone_3.webp",
+        "system/heads/head_v1_tone_4.webp",
+        "system/heads/head_v1_tone_5.webp"
+      ]
+    },
+    {
+      "id": "pro_face_one",
+      "nombre": "Pro Face One",
+      "folder": "system/heads/head_pro_one",
+      "versiones": [
+        "system/heads/head_pro_one/face1_tone1.webp",
+        "system/heads/head_pro_one/face1_tone2.webp",
+        "system/heads/head_pro_one/face1_tone3.webp",
+        "system/heads/head_pro_one/face1_tone4.webp",
+        "system/heads/head_pro_one/face1_tone5.webp"
+      ]
+    }
+  ]
+}
