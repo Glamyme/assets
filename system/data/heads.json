@@ -2,7 +2,7 @@
   "head_styles": [
     {
       "id": "standard",
-      "nombre": "Cara Base",
+      "nombre": "Pro Base",
       "folder": "system/heads",
       "versiones": [
         "system/heads/head_v1_tone_1.webp",
@@ -14,7 +14,7 @@
     },
     {
       "id": "pro_face_one",
-      "nombre": "Pro Face One",
+      "nombre": "Pro Face Glam",
       "folder": "system/heads/head_pro_one",
       "versiones": [
         "system/heads/head_pro_one/face1_tone1.webp",
