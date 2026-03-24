@@ -1,0 +1,10 @@
+{
+  "xp_base": 8,
+  "incremento_por_nivel": 2,
+  "titulos_especiales": {
+    "1": "Novata",
+    "10": "Estilista",
+    "50": "Icono Glamy",
+    "100": "Diva Legendaria"
+  }
+}
