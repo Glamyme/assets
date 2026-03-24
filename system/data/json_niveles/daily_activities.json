@@ -1,0 +1,22 @@
+{
+  "recompensas_diarias": [
+    {
+      "id": "guardar_house",
+      "nombre": "Guardar Look en House",
+      "xp": 15,
+      "limite_diario": 1
+    },
+    {
+      "id": "guardar_salon",
+      "nombre": "Guardar Estilo en Salón",
+      "xp": 10,
+      "limite_diario": 1
+    },
+    {
+      "id": "comprar_item",
+      "nombre": "Comprar algo nuevo",
+      "xp": 5,
+      "limite_diario": 5
+    }
+  ]
+}
