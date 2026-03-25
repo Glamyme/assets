@@ -1,15 +1,27 @@
 {
   "recompensas_diarias": [
     {
-      "id": "guardar_house",
-      "nombre": "Guardar Look en House",
-      "xp": 15,
+      "id": "visitar_salon",
+      "nombre": "Visita el Salón",
+      "xp": 5,
       "limite_diario": 1
     },
     {
       "id": "guardar_salon",
       "nombre": "Guardar Estilo en Salón",
       "xp": 10,
+      "limite_diario": 1
+    },
+    {
+      "id": "fotografa",
+      "nombre": "Fotógrafa",
+      "xp": 15,
+      "limite_diario": 3
+    },
+    {
+      "id": "guardar_house",
+      "nombre": "Guardar Look en House",
+      "xp": 15,
       "limite_diario": 1
     },
     {
