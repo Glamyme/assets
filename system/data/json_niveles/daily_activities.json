@@ -28,7 +28,7 @@
       "id": "comprar_item",
       "nombre": "Comprar algo nuevo",
       "xp": 5,
-      "limite_diario": 5
+      "limite_diario": 1
     }
   ]
 }
