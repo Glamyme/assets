@@ -1,6 +1,6 @@
 {
   "pd_maximo_diario": 60,
-  "recompensa_extra_por_pddiario": {
+  "recompensa_extra_por_pd_diario": {
     "10 pd": "5 diamantes celestes",
     "25 pd": "5 diamantes celestes",
     "40 pd": "5 diamantes celestes",
