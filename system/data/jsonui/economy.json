@@ -1,0 +1,30 @@
+{
+  "game_economy": {
+    "currencies": [
+      {
+        "id": "coin_gm",
+        "name": "Moneda GlamyMe",
+        "symbol": "GM",
+        "image_path": "assets/system/ui/currencies/coin_gm.webp",
+        "type": "standard",
+        "description": "Moneda principal obtenida al jugar."
+      },
+      {
+        "id": "diamond_blue",
+        "name": "Diamante Celeste",
+        "symbol": "DB",
+        "image_path": "assets/system/ui/currencies/diamond_blue.webp",
+        "type": "premium",
+        "description": "Gema premium para artículos especiales."
+      },
+      {
+        "id": "diamond_black",
+        "name": "Diamante Negro",
+        "symbol": "DN",
+        "image_path": "assets/system/ui/currencies/diamond_black.webp",
+        "type": "ultra-rare",
+        "description": "Recurso extremadamente raro y valioso."
+      }
+    ]
+  }
+}
