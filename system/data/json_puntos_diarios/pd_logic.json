@@ -1,9 +1,9 @@
 {
   "pd_maximo_diario": 60,
   "recompensa_extra_por_pd_diario": {
-    "10 pd": "5 diamantes celestes",
-    "25 pd": "5 diamantes celestes",
-    "40 pd": "5 diamantes celestes",
-    "60 pd": "10000 diamantes celestes"
+    "10 pd": "5 diamantes celestes y 100 monedas amarillas",
+    "25 pd": "5 diamantes celestes y 100 monedas amarillas",
+    "40 pd": "5 diamantes celestes y 100 monedas amarillas",
+    "60 pd": "10000 diamantes celestes y 100 monedas amarillas"
   }
 }
