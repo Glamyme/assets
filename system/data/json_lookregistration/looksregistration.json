@@ -16,8 +16,23 @@
         { "item_id": "y2k_sneakers", "name": "sneaker Y2K", "category": "shoes", "color": "white", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/y2k_look/pink_sneakers_y2k.webp" },
         { "item_id": "y2k_bag", "name": "Bolso Rosado Y2K", "category": "bag", "color": "pink", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/y2k_look/bag_pink_y2k.webp" },
         { "item_id": "y2k_hair_blonde", "name": "Hair Y2K", "category": "hair", "color": "blonde", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/y2k_look/hair_blonde_y2k.webp" },
-        { "item_id": "y2k_belly_chain", "name": "belly chain", "category": "accessory", "color": "silver", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/y2k_look/Belly_chain_y2k.webp" },
-        { "item_id": "y2k_stacked_bracelets", "name": "Stacked bracelets y2k", "category": "accessory", "color": "silver", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/y2k_look/Stacked_bracelets_y2k.webp" }
+        { "item_id": "y2k_belly_chain", "name": "belly chain", "category": "accessory", "color": "sylver", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/y2k_look/Belly_chain_y2k.webp" },
+        { "item_id": "y2k_stacked_bracelets", "name": "Stacked bracelets y2k", "category": "accessory", "color": "sylver", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/y2k_look/Stacked_bracelets_y2k.webp" }
+      ]
+    },
+    {
+      "id": "look_soft_grunge",
+      "name": "Look Soft Grunge / Indie",
+      "style_category": "Grunge",
+      "status": "free",
+      "activation": true,
+      "items": [
+        { "item_id": "grunge_crop_top", "name": "striped crop top", "category": "top", "color": "black", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/grunge_look/Striped_crop_top_grunge.webp" },
+        { "item_id": "grunge_midi_denim_skirt", "name": "Midi denin skirt", "category": "bottom", "color": "blue", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/grunge_look/Midi_denim_skirt_grunge.webp" },
+        { "item_id": "grunge_black_shoes", "name": "Boots Grunge", "category": "shoes", "color": "black", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/grunge_look/black_shoes_grunge.webp" },
+        { "item_id": "grunge_brown_bag", "name": "Brown bag Grunge", "category": "bag", "color": "brown", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/grunge_look/brown_bag_grunge.webp" },
+        { "item_id": "grunge_black_choker", "name": "choker black grunge", "category": "accessory", "color": "black", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/grunge_look/black_choker_grunge.webp" },
+        { "item_id": "grunge_brown_hair", "name": "Hair brown grunge", "category": "hair", "color": "brown", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/grunge_look/brown_hair_grunge.webp" }
       ]
     }
   ]
