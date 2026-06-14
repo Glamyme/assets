@@ -16,8 +16,8 @@
         { "item_id": "y2k_sneakers", "name": "sneaker Y2K", "category": "shoes", "color": "white", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/y2k_look/pink_sneakers_y2k.webp" },
         { "item_id": "y2k_bag", "name": "Bolso Rosado Y2K", "category": "bag", "color": "pink", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/y2k_look/bag_pink_y2k.webp" },
         { "item_id": "y2k_hair_blonde", "name": "Hair Y2K", "category": "hair", "color": "blonde", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/y2k_look/hair_blonde_y2k.webp" },
-        { "item_id": "y2k_belly_chain", "name": "belly chain", "category": "accessory", "color": "sylver", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/y2k_look/Belly_chain_y2k.webp" },
-        { "item_id": "y2k_stacked_bracelets", "name": "Stacked bracelets y2k", "category": "accessory", "color": "sylver", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/y2k_look/Stacked_bracelets_y2k.webp" }
+        { "item_id": "y2k_belly_chain", "name": "belly chain", "category": "accessory", "color": "silver", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/y2k_look/Belly_chain_y2k.webp" },
+        { "item_id": "y2k_stacked_bracelets", "name": "Stacked bracelets y2k", "category": "accessory", "color": "silver", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/y2k_look/Stacked_bracelets_y2k.webp" }
       ]
     },
     {
