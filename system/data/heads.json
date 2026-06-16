@@ -22,6 +22,18 @@
         "system/heads/Head_pro_one/face1_tone3.webp",
         "system/heads/Head_pro_one/face1_tone4.webp",
         "system/heads/Head_pro_one/face1_tone5.webp"
+        ]
+    },
+    {
+      "id": "tanya_face",
+      "nombre": "Tanya Face",
+      "folder": "system/heads/tanya_face",
+      "versiones": [
+        "system/heads/tanya_face/face_tanya_tone_1.webp",
+        "system/heads/tanya_face/face_tanya_tone_2.webp",
+        "system/heads/tanya_face/face_tanya_tone_3.webp",
+        "system/heads/tanya_face/face_tanya_tone_4.webp",
+        "system/heads/tanya_face/face_tanya_tone_5.webp"
       ]
     }
   ]
