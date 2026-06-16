@@ -28,6 +28,10 @@
       "id": "tanya_face",
       "nombre": "Tanya Face",
       "folder": "system/heads/tanya_face",
+      "precio": {
+        "monto": 1500,
+        "moneda": "azul"
+      },
       "versiones": [
         "system/heads/tanya_face/face_tanya_tone_1.webp",
         "system/heads/tanya_face/face_tanya_tone_2.webp",
