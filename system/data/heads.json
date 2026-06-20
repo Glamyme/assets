@@ -50,6 +50,17 @@
         "system/heads/lena_face/lena_face_tone_3.webp",
         "system/heads/lena_face/lena_face_tone_4.webp",
         "system/heads/lena_face/lena_face_tone_5.webp"
+        },
+    {
+      "id": "Mia_face",
+      "nombre": "Mia Face",
+      "folder": "system/heads/lena_face",
+      "versiones": [
+        "system/heads/Mia_face/Mia_face_tone_1.webp",
+        "system/heads/Mia_face/Mia_face_tone_2.webp",
+        "system/heads/Mia_face/Mia_face_tone_3.webp",
+        "system/heads/Mia_face/Mia_face_tone_4.webp",
+        "system/heads/Mia_face/Mia_face_tone_5.webp"
       ]
     }
   ]
