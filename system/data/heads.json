@@ -2,18 +2,6 @@
   "head_styles": [
     {
       "id": "standard",
-      "nombre": "Pro Base",
-      "folder": "system/heads",
-      "versiones": [
-        "system/heads/head_v1_tone_1.webp",
-        "system/heads/head_v1_tone_2.webp",
-        "system/heads/head_v1_tone_3.webp",
-        "system/heads/head_v1_tone_4.webp",
-        "system/heads/head_v1_tone_5.webp"
-      ]
-    },
-    {
-      "id": "standard",
       "nombre": "trixy face",
       "folder": "system/heads/trixy_face",
       "versiones": [
@@ -21,7 +9,19 @@
         "system/heads/trixy_face/trixy_face_tone_2.webp",
         "system/heads/trixy_face/trixy_face_tone_3.webp",
         "system/heads/trixy_face/trixy_face_tone_4.webp",
-        "system/heads/trixy_face/trixy_face_tone_5.webp"
+        "system/heads/trixy_face/trixy_face_tone_5.webp""
+      ]
+    },
+    {
+      "id": "standard",
+      "nombre": "Head_pro_one",
+      "folder": "system/heads/Head_pro_one",
+      "versiones": [
+        "system/heads/Head_pro_one/face1_tone1.webp",
+        "system/heads/Head_pro_one/face1_tone2.webp",
+        "system/heads/Head_pro_one/face1_tone3.webpp",
+        "system/heads/Head_pro_one/face1_tone4.webp",
+        "system/heads/Head_pro_one/face1_tone5.webp"
       ]
     },
     {
