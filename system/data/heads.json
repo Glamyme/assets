@@ -13,15 +13,15 @@
       ]
     },
     {
-      "id": "pro_face_one",
-      "nombre": "Pro Face Glam",
-      "folder": "system/heads/head_pro_one",
+      "id": "trixy_face",
+      "nombre": "trixy face",
+      "folder": "system/heads/trixy_face",
       "versiones": [
-        "system/heads/Head_pro_one/face1_tone1.webp",
-        "system/heads/Head_pro_one/face1_tone2.webp",
-        "system/heads/Head_pro_one/face1_tone3.webp",
-        "system/heads/Head_pro_one/face1_tone4.webp",
-        "system/heads/Head_pro_one/face1_tone5.webp"
+        "system/heads/trixy_face/trixy_face_tone_1.webp",
+        "system/heads/trixy_face/trixy_face_tone_2.webp",
+        "system/heads/trixy_face/trixy_face_tone_3.webp",
+        "system/heads/trixy_face/trixy_face_tone_4.webp",
+        "system/heads/trixy_face/trixy_face_tone_5.webp"
       ]
     },
     {
