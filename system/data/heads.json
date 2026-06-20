@@ -17,12 +17,12 @@
       "nombre": "Pro Face Glam",
       "folder": "system/heads/head_pro_one",
       "versiones": [
-        "system/heads/Head_pro_one/face1_tone1.webp",
-        "system/heads/Head_pro_one/face1_tone2.webp",
-        "system/heads/Head_pro_one/face1_tone3.webp",
-        "system/heads/Head_pro_one/face1_tone4.webp",
-        "system/heads/Head_pro_one/face1_tone5.webp"
-        ]
+        "system/heads/head_pro_one/face1_tone1.webp",
+        "system/heads/head_pro_one/face1_tone2.webp",
+        "system/heads/head_pro_one/face1_tone3.webp",
+        "system/heads/head_pro_one/face1_tone4.webp",
+        "system/heads/head_pro_one/face1_tone5.webp"
+      ]
     },
     {
       "id": "tanya_face",
@@ -38,7 +38,7 @@
         "system/heads/tanya_face/face_tanya_tone_3.webp",
         "system/heads/tanya_face/face_tanya_tone_4.webp",
         "system/heads/tanya_face/face_tanya_tone_5.webp"
-        ]
+      ]
     },
     {
       "id": "lena_face",
@@ -50,11 +50,12 @@
         "system/heads/lena_face/lena_face_tone_3.webp",
         "system/heads/lena_face/lena_face_tone_4.webp",
         "system/heads/lena_face/lena_face_tone_5.webp"
-     },
+      ]
+    },
     {
       "id": "Mia_face",
       "nombre": "Mia Face",
-      "folder": "system/heads/lena_face",
+      "folder": "system/heads/Mia_face",
       "versiones": [
         "system/heads/Mia_face/Mia_face_tone_1.webp",
         "system/heads/Mia_face/Mia_face_tone_2.webp",
