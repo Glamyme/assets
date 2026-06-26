@@ -62,6 +62,14 @@
         "system/heads/Mia_face/Mia_face_tone_3.webp",
         "system/heads/Mia_face/Mia_face_tone_4.webp",
         "system/heads/Mia_face/Mia_face_tone_5.webp"
+        ]
+    },
+    {
+      "id": "sasha_face",
+      "nombre": "sasha Face",
+      "folder": "system/heads/sasha_face",
+      "versiones": [
+        "system/heads/sasha_face/sasha_face_tone_3.webp"
       ]
     }
   ]
