@@ -1,0 +1,36 @@
+{
+  "game_progression": {
+    "level_cap": 100,
+    "starting_xp": 450,
+    "calculation_method": "stepped_acceleration",
+    "progression_rules": [
+      {
+        "range": "1-10",
+        "base_increment": 100,
+        "acceleration": 0
+      },
+      {
+        "range": "11-20",
+        "base_increment": 200,
+        "acceleration": 10
+      },
+      {
+        "range": "21-50",
+        "base_increment": 400,
+        "acceleration": 25
+      },
+      {
+        "range": "51-100",
+        "base_increment": 800,
+        "acceleration": 50
+      }
+    ],
+    "asset_rewards": {
+      "1_star": 50,
+      "2_stars": 120,
+      "3_stars": 300,
+      "4_stars": 750,
+      "5_stars": 1800
+    }
+  }
+}
