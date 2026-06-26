@@ -6,26 +6,26 @@
     "progression_rules": [
       {
         "range": "1-10",
-        "base_increment": 100,
-        "acceleration": 0
+        "base_xp_increment": 100,
+        "xp_acceleration": 0
       },
       {
         "range": "11-20",
-        "base_increment": 200,
-        "acceleration": 10
+        "base_xp_increment": 200,
+        "xp_acceleration": 10
       },
       {
         "range": "21-50",
-        "base_increment": 400,
-        "acceleration": 25
+        "base_xp_increment": 400,
+        "xp_acceleration": 25
       },
       {
         "range": "51-100",
-        "base_increment": 800,
-        "acceleration": 50
+        "base_xp_increment": 800,
+        "xp_acceleration": 50
       }
     ],
-    "asset_rewards": {
+    "xp_rewards_by_stars": {
       "1_star": 50,
       "2_stars": 120,
       "3_stars": 300,
