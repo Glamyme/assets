@@ -69,11 +69,11 @@
       "nombre": "sasha Face",
       "folder": "system/heads/sasha_face",
       "versiones": [
-        "system/heads/Mia_face/sasha_face_tone_1.webp",
-        "system/heads/Mia_face/sasha_face_tone_2.webp",
-        "system/heads/Mia_face/sasha_face_tone_3.webp",
-        "system/heads/Mia_face/sasha_face_tone_4.webp",
-        "system/heads/Mia_face/sasha_face_tone_5.webp"       
+        "system/heads/sasha_face/sasha_face_tone_1.webp",
+        "system/heads/sasha_face/sasha_face_tone_2.webp",
+        "system/heads/sasha_face/sasha_face_tone_3.webp",
+        "system/heads/sasha_face/sasha_face_tone_4.webp",
+        "system/heads/sasha_face/sasha_face_tone_5.webp"       
       ]
     }
   ]
