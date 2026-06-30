@@ -9,3 +9,4 @@
     { "id": tdv_boots_01, "name": "denim stiletto", "cat": "shoes","price": { "amount": 180, "currency": "diamond_blue" }, "img": "system/celestial_ diamond_store/The_Denim_Vault/denim_stiletto.webp", "estrellas": 4 },
     { "id": tdv_hair_01, "name": "copper fire", "cat": "hair","price": { "amount": 300, "currency": "diamond_blue" }, "img": "system/celestial_ diamond_store/The_Denim_Vault/copper_fire.webp", "estrellas": 4 }
  ]
+}
