@@ -1,0 +1,90 @@
+{
+  "gacha_config": {
+    "id": "gacha_autumn_last_flight",
+    "name": "Autumn Last Flight",
+    "description": "Edición Limitada Otoñal: Consigue sets exclusivos de ropa y decoración",
+    "price_per_pull": { "amount": 150, "currency": "diamond_black" },
+    "price_per_ten": { "amount": 1500, "currency": "diamond_black" }
+  },
+  "sets_gacha": [
+    {
+      "set_id": "autumn_set_one",
+      "set_name": "Set 1: Autumn Flight Grand Prize",
+      "status": "active",
+      "clothes": [
+        {
+          "id": "alf_dress_01",
+          "name": "Butterfly Souvenir Dress",
+          "cat": "dress",
+          "estrellas": 5,
+          "probability": 1.0,
+          "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_one/butterfly_souvenir_dress.webp"
+        },
+        {
+          "id": "alf_hair_01",
+          "name": "Orange Hair Last Flight",
+          "cat": "hair",
+          "estrellas": 5,
+          "probability": 1.5,
+          "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_one/orange_hair_last_flight.webp"
+        }
+      ],
+      "decorations": [
+        {
+          "id": "alf_dec_chair_01",
+          "name": "Autumn Chair",
+          "cat": "chair",
+          "estrellas": 5,
+          "probability": 0.6,
+          "img": "system/gachas_sets/gacha_autumn_last_flight/decor_set_one/autumn_chair.webp"
+        },
+        {
+          "id": "alf_dec_house_01",
+          "name": "Autumn House Background",
+          "cat": "background",
+          "estrellas": 5,
+          "probability": 0.6,
+          "img": "system/gachas_sets/gacha_autumn_last_flight/decor_set_one/autumn_house.webp"
+        },
+        {
+          "id": "alf_dec_landscape_01",
+          "name": "Autumn Landscape",
+          "cat": "landscape",
+          "estrellas": 5,
+          "probability": 0.6,
+          "img": "system/gachas_sets/gacha_autumn_last_flight/decor_set_one/autumn_landscape.webp"
+        },
+        {
+          "id": "alf_dec_reindeer_01",
+          "name": "Autumn Reindeer",
+          "cat": "prop",
+          "estrellas": 5,
+          "probability": 0.6,
+          "img": "system/gachas_sets/gacha_autumn_last_flight/decor_set_one/autumn_reindeer.webp"
+        },
+        {
+          "id": "alf_dec_well_01",
+          "name": "Water Well",
+          "cat": "prop",
+          "estrellas": 5,
+          "probability": 0.6,
+          "img": "system/gachas_sets/gacha_autumn_last_flight/decor_set_one/water_well.png"
+        }
+      ]
+    },
+    {
+      "set_id": "autumn_set_two",
+      "set_name": "Set 2: Autumn Intermediate",
+      "status": "inactive",
+      "clothes": [],
+      "decorations": []
+    },
+    {
+      "set_id": "autumn_set_three",
+      "set_name": "Set 3: Autumn Common",
+      "status": "inactive",
+      "clothes": [],
+      "decorations": []
+    }
+  ]
+}
