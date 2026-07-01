@@ -40,8 +40,8 @@
         },
         {
           "id": "alf_dec_house_01",
-          "name": "Autumn House Background",
-          "cat": "background",
+          "name": "Autumn House",
+          "cat": "furniture",
           "estrellas": 5,
           "probability": 0.6,
           "img": "system/gachas_sets/gacha_autumn_last_flight/decor_set_one/autumn_house.webp"
@@ -49,7 +49,7 @@
         {
           "id": "alf_dec_landscape_01",
           "name": "Autumn Landscape",
-          "cat": "landscape",
+          "cat": "background",
           "estrellas": 5,
           "probability": 0.6,
           "img": "system/gachas_sets/gacha_autumn_last_flight/decor_set_one/autumn_landscape.webp"
@@ -57,7 +57,7 @@
         {
           "id": "alf_dec_reindeer_01",
           "name": "Autumn Reindeer",
-          "cat": "prop",
+          "cat": "animals",
           "estrellas": 5,
           "probability": 0.6,
           "img": "system/gachas_sets/gacha_autumn_last_flight/decor_set_one/autumn_reindeer.webp"
@@ -65,7 +65,7 @@
         {
           "id": "alf_dec_well_01",
           "name": "Water Well",
-          "cat": "prop",
+          "cat": "nature",
           "estrellas": 5,
           "probability": 0.6,
           "img": "system/gachas_sets/gacha_autumn_last_flight/decor_set_one/water_well.png"
