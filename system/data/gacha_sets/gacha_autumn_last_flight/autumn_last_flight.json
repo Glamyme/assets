@@ -74,10 +74,52 @@
     },
     {
       "set_id": "autumn_set_two",
-      "set_name": "Set 2: Autumn Intermediate",
-      "status": "inactive",
-      "clothes": [],
-      "decorations": []
+      "set_name": "Set 2: Frozen symphony",
+      "status": "active",
+      "clothes": [
+        {
+          "id": "alf_dress_02",
+          "name": "Midnight Frost",
+          "cat": "dress",
+          "estrellas": 4,
+          "probability": 1.0,
+          "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_two_frozen_symphony/midnight_frost.webp"
+        },
+        {
+          "id": "alf_hair_02",
+          "name": "Arctic Embrace",
+          "cat": "hair",
+          "estrellas": 4,
+          "probability": 1.5,
+          "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_two_frozen_symphony/arctic_embrace.webp"
+          },
+        {
+          "id": "alf_boots_02",
+          "name": "Alpine Aurora",
+          "cat": "boots",
+          "estrellas": 4,
+          "probability": 1.5,
+          "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_two_frozen_symphony/alpine_aurora.webp"
+        }
+         {
+          "id": "alf_coat_02",
+          "name": "Snow Cares",
+          "cat": "coat",
+          "estrellas": 4,
+          "probability": 1.5,
+          "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_two_frozen_symphony/snow_caress.webp"
+        }
+      ],
+      "decorations": [
+        {
+          "id": "alf_dec_landscape_02",
+          "name": "frozen symphony backroom",
+          "cat": "chair",
+          "estrellas": 5,
+          "probability": 0.6,
+          "img": "system/gachas_sets/gacha_autumn_last_flight/decor_set_two_frozen_symphony/frozen_symphony_backroom.webp"
+        }
+      ]
     },
     {
       "set_id": "autumn_set_three",
