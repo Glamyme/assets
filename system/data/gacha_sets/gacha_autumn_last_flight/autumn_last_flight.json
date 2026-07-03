@@ -81,7 +81,7 @@
           "id": "alf_dress_02",
           "name": "Midnight Frost",
           "cat": "dress",
-          "estrellas": 4,
+          "estrellas": 4.5,
           "probability": 1.0,
           "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_two_frozen_symphony/midnight_frost.webp"
         },
@@ -89,7 +89,7 @@
           "id": "alf_hair_02",
           "name": "Arctic Embrace",
           "cat": "hair",
-          "estrellas": 4,
+          "estrellas": 6.0,
           "probability": 1.5,
           "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_two_frozen_symphony/arctic_embrace.webp"
           },
@@ -98,7 +98,7 @@
           "name": "Alpine Aurora",
           "cat": "boots",
           "estrellas": 4,
-          "probability": 1.5,
+          "probability": 7.0,
           "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_two_frozen_symphony/alpine_aurora.webp"
         }
          {
@@ -106,7 +106,7 @@
           "name": "Snow Cares",
           "cat": "coat",
           "estrellas": 4,
-          "probability": 1.5,
+          "probability": 6.0,
           "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_two_frozen_symphony/snow_caress.webp"
         }
       ],
