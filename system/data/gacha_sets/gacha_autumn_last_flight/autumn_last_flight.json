@@ -100,7 +100,7 @@
           "estrellas": 4,
           "probability": 7.0,
           "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_two_frozen_symphony/alpine_aurora.webp"
-        }
+        },
          {
           "id": "alf_coat_02",
           "name": "Snow Cares",
@@ -114,7 +114,7 @@
         {
           "id": "alf_dec_landscape_02",
           "name": "frozen symphony backroom",
-          "cat": "chair",
+          "cat": "background",
           "estrellas": 5,
           "probability": 0.6,
           "img": "system/gachas_sets/gacha_autumn_last_flight/decor_set_two_frozen_symphony/frozen_symphony_backroom.webp"
