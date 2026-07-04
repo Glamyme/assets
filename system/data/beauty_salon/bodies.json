@@ -1,0 +1,32 @@
+[
+  {
+    "id": "light_pale_tone_01",
+    "nombre": "Light Pale Tone 1",
+    "imagen_base": "system/bodies/body_skin_light_pale.webp",
+    "color": "#f9e5de"
+  },
+  {
+    "id": "light_honey_tone_02",
+    "nombre": "Light Honey Tone 2",
+    "imagen_base": "system/bodies/body_skin_light_honey.webp",
+    "color": "#e8beac"
+  },
+  {
+    "id": "med_cinnamon_tone_03",
+    "nombre": "Cinnamon Tone 3",
+    "imagen_base": "system/bodies/body_skin_med_cinnamon.webp",
+    "color": "#b88b71"
+  },
+  {
+    "id": "dark_ebony_tone_04",
+    "nombre": "Dark Ebony Tone 4",
+    "imagen_base": "system/bodies/body_skin_dark_ebony.webp",
+    "color": "#c68642"
+  },
+  {
+    "id": "dark_deep_tone_05",
+    "nombre": "Dark Deep Tone 5",
+    "imagen_base": "system/bodies/body_skin_dark_deep.webp",
+    "color": "#5c3a21"
+  }
+]
