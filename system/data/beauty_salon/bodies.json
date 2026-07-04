@@ -21,12 +21,12 @@
     "id": "dark_ebony_tone_04",
     "nombre": "Dark Ebony Tone 4",
     "imagen_base": "system/bodies/body_skin_dark_ebony.webp",
-    "color": "#c68642"
+    "color": "#e8b37e"
   },
   {
     "id": "dark_deep_tone_05",
     "nombre": "Dark Deep Tone 5",
     "imagen_base": "system/bodies/body_skin_dark_deep.webp",
-    "color": "#5c3a21"
+    "color": "#997667"
   }
 ]
