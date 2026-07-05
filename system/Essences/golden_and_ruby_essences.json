@@ -28,6 +28,23 @@
       "min_size": 1,
       "max_size": 3
     }
+  },
+  "butterfly_gold": {
+    "render_type": "emoji",
+    "movement_type": "sine_rise",
+    "particle_count": 6,
+    "config": {
+      "emoji": "🦋",
+      "min_speed_y": -1.0,
+      "max_speed_y": -0.4,
+      "min_size": 20,
+      "max_size": 36,
+      "amplitude": 50,
+      "frequency": 0.015,
+      "flap_speed": 0.2,
+      "rotation": true
+    }
   }
 }
+
 
