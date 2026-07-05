@@ -43,7 +43,8 @@
       "frequency": 0.015,
       "flap_speed": 0.2,
       "rotation": true
-      {
+    }
+  },
   "bubble_essence": {
     "particle_count": 40,
     "movement_type": "sine_rise",
