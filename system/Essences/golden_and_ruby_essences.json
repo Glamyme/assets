@@ -43,8 +43,23 @@
       "frequency": 0.015,
       "flap_speed": 0.2,
       "rotation": true
+      {
+  "bubble_essence": {
+    "particle_count": 40,
+    "movement_type": "sine_rise",
+    "render_type": "circle",
+    "config": {
+      "min_size": 4,
+      "max_size": 12,
+      "min_speed_y": -0.5,
+      "max_speed_y": -1.5,
+      "amplitude": 25,
+      "frequency": 0.03,
+      "color": "174, 219, 255",
+      "max_blur": 2
     }
   }
 }
+    
 
 
