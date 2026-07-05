@@ -58,6 +58,21 @@
       "frequency": 0.03,
       "color": "174, 219, 255",
       "max_blur": 2
+      }
+    },
+      "autumn_leaves": {
+    "render_type": "emoji",
+    "movement_type": "sine_rise",
+    "particle_count": 8,
+    "config": {
+      "emoji": "🍁",
+      "min_speed_y": 0.6,
+      "max_speed_y": 1.4,
+      "min_size": 18,
+      "max_size": 28,
+      "amplitude": 35,
+      "frequency": 0.02,
+      "rotation": true
     }
   }
 }
