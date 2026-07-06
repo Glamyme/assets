@@ -4,7 +4,7 @@
       "id": "trixy_face",
       "nombre": "trixy face",
       "folder": "system/heads/trixy_face",
-      "precio": { "monto": 3000, "moneda": "diamond_blue" }
+      "precio": { "monto": 3000, "moneda": "diamond_blue" },
       "versiones": [
         "system/heads/trixy_face/trixy_face_tone_1.webp",
         "system/heads/trixy_face/trixy_face_tone_2.webp",
@@ -29,7 +29,7 @@
       "id": "tanya_face",
       "nombre": "Tanya Face",
       "folder": "system/heads/tanya_face",
-     "precio": { "monto": 3000, "moneda": "diamond_blue" }
+     "precio": { "monto": 3000, "moneda": "diamond_blue" },
       "versiones": [
         "system/heads/tanya_face/face_tanya_tone_1.webp",
         "system/heads/tanya_face/face_tanya_tone_2.webp",
@@ -42,7 +42,7 @@
       "id": "lena_face",
       "nombre": "Lena Face",
       "folder": "system/heads/lena_face",
-      "precio": { "monto": 3000, "moneda": "diamond_blue" }
+      "precio": { "monto": 3000, "moneda": "diamond_blue" },
       "versiones": [
         "system/heads/lena_face/lena_face_tone_1.webp",
         "system/heads/lena_face/lena_face_tone_2.webp",
@@ -55,7 +55,7 @@
       "id": "Mia_face",
       "nombre": "Mia Face",
       "folder": "system/heads/Mia_face",
-      "precio": { "monto": 3000, "moneda": "diamond_blue" }
+      "precio": { "monto": 3000, "moneda": "diamond_blue" },
       "versiones": [
         "system/heads/Mia_face/Mia_face_tone_1.webp",
         "system/heads/Mia_face/Mia_face_tone_2.webp",
@@ -68,7 +68,7 @@
       "id": "sasha_face",
       "nombre": "sasha Face",
       "folder": "system/heads/sasha_face",
-      "precio": { "monto": 3000, "moneda": "diamond_blue" }
+      "precio": { "monto": 3000, "moneda": "diamond_blue" },
       "versiones": [
         "system/heads/sasha_face/sasha_face_tone_1.webp",
         "system/heads/sasha_face/sasha_face_tone_2.webp",
