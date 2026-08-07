@@ -38,6 +38,7 @@
       "nombre": "Lena Face",
       "folder": "system/heads/lena_face",
       "precio": { "monto": 3000, "moneda": "diamond_blue" },
+      "anchor": { "x": 492, "y": 160, "w": 185, "h": 250 },
       "versiones": [
         "system/heads/lena_face/lena_face_tone_1.webp","system/heads/lena_face/lena_face_tone_2.webp",
         "system/heads/lena_face/lena_face_tone_3.webp","system/heads/lena_face/lena_face_tone_4.webp",
