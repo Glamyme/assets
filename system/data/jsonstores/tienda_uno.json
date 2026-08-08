@@ -5,7 +5,7 @@
   },
   "productos": [
     { "id": "zebra_pants", "nombre": "Zebra Pants", "precio": 120, "cat": "pants", "img": "system/shop/items/item_01.webp" ,"estrellas": 3 },
-    { "id": "zebra_top", "nombre": "Zebra Top", "precio": 150, "cat": "top", "img": "system/shop/items/item_02.webp", "estrellas": 3, "anchor": { "x": 311, "y": 446, "w": 489, "h": 562  },
+    { "id": "zebra_top", "nombre": "Zebra Top", "precio": 150, "cat": "top", "img": "system/shop/items/item_02.webp", "estrellas": 3, "anchor": { "x": 311, "y": 446, "w": 489, "h": 562 }},
     { "id": "princess_dress", "nombre": "Princess Dress", "precio": 200, "cat": "dress", "img": "system/shop/items/item_03.webp", "estrellas": 4 }
   ]
 }
