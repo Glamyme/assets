@@ -26,7 +26,8 @@
       "id": "tanya_face",
       "nombre": "Tanya Face",
       "folder": "system/heads/tanya_face",
-     "precio": { "monto": 3000, "moneda": "diamond_blue" },
+      "precio": { "monto": 3000, "moneda": "diamond_blue" },
+      "anchor": { "x": 492, "y": 160, "w": 185, "h": 250 },
       "versiones": [
         "system/heads/tanya_face/tanya_face_tone_1.webp","system/heads/tanya_face/tanya_face_tone_2.webp",
         "system/heads/tanya_face/tanya_face_tone_3.webp","system/heads/tanya_face/tanya_face_tone_4.webp",
