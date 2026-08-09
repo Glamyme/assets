@@ -52,7 +52,8 @@
         "anchor": { "x": 447, "y": 434, "w": 273, "h": 424 } },
         { "item_id": "coquette_pink_skirt", "name": "skirt Coquette", "category": "bottom", "color": "pink", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/coquette_look/pink_skirt_coquette.webp",
         "anchor": { "x": 329, "y": 793, "w": 442, "h": 323 } },
-        { "item_id": "coquette_shoes_pink", "name": "Mary jane shoes Coquette", "category": "shoes", "color": "pink", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/coquette_look/shoes_pink_coquette.webp" },
+        { "item_id": "coquette_shoes_pink", "name": "Mary jane shoes Coquette", "category": "shoes", "color": "pink", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/coquette_look/shoes_pink_coquette.webp",
+        "anchor": { "x": 497, "y": 1653, "w": 500, "h": 284 } },
         { "item_id": "coquette_bag_pink", "name": "Bag Coquette", "category": "bag", "color": "pink", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/coquette_look/bag_pink_coquette.webp",
         "anchor": { "x": 216, "y": 1064, "w": 185, "h": 371 } },
         { "item_id": "coquette_blonde_hair", "name": "Blonde hair coquette", "category": "hair", "color": "blonde", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/coquette_look/blonde_hair_coquette.webp" }
