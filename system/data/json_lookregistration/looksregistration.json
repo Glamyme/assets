@@ -34,15 +34,15 @@
       "activation": true,
       "items": [
         { "item_id": "grunge_crop_top", "name": "striped crop top", "category": "top", "color": "black", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/grunge_look/Striped_crop_top_grunge.webp",
-        {x:362, y:459, w:457, h:332} },
+        "anchor": {x:362, y:459, w:457, h:332} },
         { "item_id": "grunge_midi_denim_skirt", "name": "Midi denin skirt", "category": "bottom", "color": "blue", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/grunge_look/Midi_denim_skirt_grunge.webp",
-         {x:396, y:775, w:429, h:822} },
+        "anchor":  {x:396, y:775, w:429, h:822} },
         { "item_id": "grunge_black_shoes", "name": "Boots Grunge", "category": "shoes", "color": "black", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/grunge_look/black_shoes_grunge.webp",
-        {x:501, y:1612, w:488, h:316} },
+       "anchor": {x:501, y:1612, w:488, h:316} },
         { "item_id": "grunge_brown_bag", "name": "Brown bag Grunge", "category": "bag", "color": "brown", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/grunge_look/brown_bag_grunge.webp",
-         {x:193, y:1081, w:276, h:423} },
+        "anchor": {x:193, y:1081, w:276, h:423} },
         { "item_id": "grunge_black_choker", "name": "choker black grunge", "category": "accessory", "color": "black", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/grunge_look/black_choker_grunge.webp",
-         {x:539, y:406, w:102, h:33} },
+        "anchor": {x:539, y:406, w:102, h:33} },
         { "item_id": "grunge_brown_hair", "name": "Hair brown grunge", "category": "hair", "color": "brown", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/grunge_look/brown_hair_grunge.webp" }
       ]
     },
