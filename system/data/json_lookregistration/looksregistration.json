@@ -12,9 +12,10 @@
       "activation": true,
       "items": [
         { "item_id": "y2k_top_hearts", "name": "Top hearts Y2K", "category": "top", "color": "pink", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/y2k_look/top_hearts_y2k.webp",
-          "anchor": {"x":446,"y":452,"w":273,"h":388} },
+        "anchor": {"x":446,"y":452,"w":273,"h":388} },
         { "item_id": "y2k_jean", "name": "Jeans Y2K", "category": "bottom", "color": "blue", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/y2k_look/jean_y2k_small.webp" },
-        { "item_id": "y2k_sneakers", "name": "sneaker Y2K", "category": "shoes", "color": "white", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/y2k_look/pink_sneakers_y2k.webp" },
+        { "item_id": "y2k_sneakers", "name": "sneaker Y2K", "category": "shoes", "color": "white", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/y2k_look/pink_sneakers_y2k.webp",
+        "anchor": { "x": 486, "y": 1720, "w": 516, "h": 211 } },
         { "item_id": "y2k_bag", "name": "Bolso Rosado Y2K", "category": "bag", "color": "pink", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/y2k_look/bag_pink_y2k.webp" },
         { "item_id": "y2k_hair_blonde", "name": "Hair Y2K", "category": "hair", "color": "blonde", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/y2k_look/hair_blonde_y2k.webp" },
         { "item_id": "y2k_belly_chain", "name": "belly chain", "category": "accessory", "color": "silver", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/y2k_look/Belly_chain_y2k.webp" },
