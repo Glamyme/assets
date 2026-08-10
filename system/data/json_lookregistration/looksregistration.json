@@ -74,7 +74,7 @@
         { "item_id": "cyberpunk_top", "name": "cyberpunk top", "category": "top", "color": "pink", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/cyberpunk_look/pink_top_Cyberpunk.webp",
         "anchor": { "x": 451, "y": 447, "w": 269, "h": 299 } },
         { "item_id": "cyberpunk_bottom", "name": "Cyberpunk skirt", "category": "bottom", "color": "silver", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/cyberpunk_look/silver_skirt_Cyberpunk.webp",
-        "anchor": { "x": 352, "y": 808, "w": 420, "h": 313 } }
+        "anchor": { "x": 352, "y": 808, "w": 420, "h": 313 } },
         { "item_id": "Cyberpunk_boots_pink", "name": "Cyberpunk boots", "category": "shoes", "color": "pink", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/cyberpunk_look/pink_boots_Cyberpunk.webp",
         "anchor": { "x": 499, "y": 1659, "w": 502, "h": 288 } },
         { "item_id": "Cyberpunk_bag_silver", "name": "RCyberpunk bag", "category": "bag", "color": "silver", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/cyberpunk_look/silver_bag_Cyberpunk.webp",
