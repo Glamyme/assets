@@ -82,18 +82,22 @@
         { "item_id": "cyberpunk_rainbow_hair", "name": "cyberpunk hair", "category": "hair", "color": "rainbow", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/cyberpunk_look/rainbow_hair_Cyberpunk.webp" }
       ]
     },
-    {
+        {
       "id": "elegant_look",
       "name": "Look Gala Glam",
       "style_category": "Glam",
       "status": "free",
       "activation": true,
       "items": [
-        { "item_id": "elegant_blue_dress", "name": "Elegant Dress", "category": "dress", "color": "blue", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/elegant_look/blue_dress_elegant.webp" },
-        { "item_id": "elegant_silver_shoes", "name": "Elegant shoes", "category": "shoes", "color": "silver", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/elegant_look/silver_shoes_elegant.webp" },
-        { "item_id": "elegant_silver_bag", "name": "Cartera Elegante", "category": "bag", "color": "silver", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/elegant_look/silver_bag_elegant.webp" },
+        { "item_id": "elegant_blue_dress", "name": "Elegant Dress", "category": "dress", "color": "blue", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/elegant_look/blue_dress_elegant.webp",
+          "anchor": { "x": 316, "y": 452, "w": 548, "h": 1461 } },
+        { "item_id": "elegant_silver_shoes", "name": "Elegant shoes", "category": "shoes", "color": "silver", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/elegant_look/silver_shoes_elegant.webp",
+          "anchor": { "x": 505, "y": 1707, "w": 480, "h": 218 } },
+        { "item_id": "elegant_silver_bag", "name": "Cartera Elegante", "category": "bag", "color": "silver", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/elegant_look/silver_bag_elegant.webp",
+          "anchor": { "x": 235, "y": 1076, "w": 145, "h": 188 } },
         { "item_id": "elegan_hair_blonde", "name": "elegant hair blonde", "category": "hair", "color": "blonde", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/elegant_look/hair_blonde_elegant.webp" },
-        { "item_id": "elegant_white_gloves", "name": "Elegant white gloves", "category": "accessory", "color": "white", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/elegant_look/white_gloves_elegant.webp" }
+        { "item_id": "elegant_white_gloves", "name": "Elegant white gloves", "category": "accessory", "color": "white", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/elegant_look/white_gloves_elegant.webp",
+          "anchor": { "x": 281, "y": 673, "w": 547, "h": 472 } }
       ]
     }
   ]
