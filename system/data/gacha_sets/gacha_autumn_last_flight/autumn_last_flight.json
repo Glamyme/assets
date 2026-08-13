@@ -24,6 +24,7 @@
           "id": "alf_hair_01",
           "name": "Orange Hair Last Flight",
           "cat": "hair",
+          "anchor": {"x": 414, "y": 95, "w": 340, "h": 401},
           "estrellas": 5,
           "probability": 1.5,
           "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_one/orange_hair_last_flight.webp"
