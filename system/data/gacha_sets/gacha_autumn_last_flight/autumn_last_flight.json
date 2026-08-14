@@ -82,7 +82,7 @@
           "id": "alf_dress_02",
           "name": "Midnight Frost",
           "cat": "dress",
-          "anchor":{"x": 305, "y": 552, "w": 568, "h": 609}
+          "anchor":{"x": 305, "y": 552, "w": 568, "h": 609},
           "estrellas": 4.5,
           "probability": 1.0,
           "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_two_frozen_symphony/midnight_frost.webp"
