@@ -43,7 +43,8 @@
         "anchor": { "x":193, "y":1081, "w":276, "h":423} },
         { "item_id": "grunge_black_choker", "name": "choker black grunge", "category": "accessory", "color": "black", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/grunge_look/black_choker_grunge.webp",
         "anchor": { "x":539, "y":406, "w":102, "h":33} },
-        { "item_id": "grunge_brown_hair", "name": "Hair brown grunge", "category": "hair", "color": "brown", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/grunge_look/brown_hair_grunge.webp" }
+        { "item_id": "grunge_brown_hair", "name": "Hair brown grunge", "category": "hair", "color": "brown", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/grunge_look/brown_hair_grunge.webp",
+         "anchor": { "x":465, "y":127,"w":239, "h":391 } }
       ]
     },
     {
