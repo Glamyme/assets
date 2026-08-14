@@ -10,7 +10,7 @@
     "anchor": { "x": 458, "y": 395, "w": 261, "h": 399 } },
     { "id": "tdv_boots_01", "name": "denim stiletto", "cat": "shoes","price": { "amount": 180, "currency": "diamond_blue" }, "img": "system/celestial_diamond_store/the_denim_vault/denim_stiletto.webp", "estrellas": 4 ,
     "anchor": { "x": 460, "y": 1399, "w": 534, "h": 532 } },
-    { "id": "tdv_hair_01", "name": "copper fire", "cat": "hair", "color": "red","price": { "amount": 300, "currency": "diamond_blue" }, "img": "system/celestial_diamond_store/the_denim_vault/copper_fire.webp", "imgback": "system/celestial_diamond_store/the_denim_vault/copper_fire_imagen_back.webp", "estrellas": 4 
-    { "id": "tdv_hair_01",   "anchor": { "x": 335, "y": 141, "w": 519, "h": 651 } }
+    { "id": "tdv_hair_01", "name": "copper fire", "cat": "hair", "color": "red","price": { "amount": 300, "currency": "diamond_blue" }, "img": "system/celestial_diamond_store/the_denim_vault/copper_fire.webp", "imgback": "system/celestial_diamond_store/the_denim_vault/copper_fire_imagen_back.webp", "estrellas": 4, 
+    "anchor": { "x": 335, "y": 141, "w": 519, "h": 651 } }
   ]
 }
