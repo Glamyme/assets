@@ -91,7 +91,7 @@
           "id": "alf_hair_02",
           "name": "Arctic Embrace",
           "cat": "hair",
-          "anchor": {"x": 437, "y": 76, "w": 242, "h": 549},
+          "anchor": {"x": 481, "y": 76, "w": 198, "h": 472},
           "estrellas": 6.0,
           "probability": 1.5,
           "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_two_frozen_symphony/arctic_embrace.webp"
