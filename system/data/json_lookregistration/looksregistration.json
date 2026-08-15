@@ -82,7 +82,8 @@
         "anchor": { "x": 499, "y": 1659, "w": 502, "h": 288 } },
         { "item_id": "Cyberpunk_bag_silver", "name": "RCyberpunk bag", "category": "bag", "color": "silver", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/cyberpunk_look/silver_bag_Cyberpunk.webp",
         "anchor": { "x": 192, "y": 1083, "w": 241, "h": 403 } },
-        { "item_id": "cyberpunk_rainbow_hair", "name": "cyberpunk hair", "category": "hair", "color": "rainbow", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/cyberpunk_look/rainbow_hair_Cyberpunk.webp" }
+        { "item_id": "cyberpunk_rainbow_hair", "name": "cyberpunk hair", "category": "hair", "color": "rainbow", "price": { "amount": 0, "currency": "diamond_blue" }, "image_path": "system/registration_looks/cyberpunk_look/rainbow_hair_Cyberpunk.webp",
+        "anchor": { "x": 431, "y": 135, "w": 334, "h": 385 } }
       ]
     },
         {
