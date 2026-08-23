@@ -30,7 +30,7 @@
     {
       "id": "look_soft_grunge",
       "name": "Look Soft Grunge / Indie",
-      "style_category": "Grunge",
+      "tag": "Grunge",
       "status": "free",
       "activation": true,
       "items": [
@@ -51,7 +51,7 @@
     {
       "id": "look_coquette",
       "name": "Look Coquette Pink",
-      "style_category": "Coquette",
+      "tag": "Coquette",
       "status": "free",
       "activation": true,
       "items": [
@@ -70,7 +70,7 @@
     {
       "id": "cyberpunk_look",
       "name": "Look Cyber Punk",
-      "style_category": "Cyber",
+      "tag": "Cyberpunk",
       "status": "free",
       "activation": true,
       "items": [
@@ -89,7 +89,7 @@
         {
       "id": "elegant_look",
       "name": "Look Gala Glam",
-      "style_category": "Glam",
+      "tag": "Glamuroso",
       "status": "free",
       "activation": true,
       "items": [
