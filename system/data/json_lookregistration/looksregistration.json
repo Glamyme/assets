@@ -7,7 +7,7 @@
     {
       "id": "look_y2k",
       "name": "Look Y2K Urbano",
-      "style_category": "Y2K",
+      "tag": "Y2K",
       "status": "free",
       "activation": true,
       "items": [
