@@ -7,6 +7,7 @@
     {
       "id": "look_y2k",
       "name": "Look Y2K Urbano",
+      "style": "cute,urban",
       "tag": "Y2K",
       "status": "free",
       "activation": true,
@@ -89,6 +90,7 @@
         {
       "id": "elegant_look",
       "name": "Look Gala Glam",
+      "style": "elegant,glamorous",
       "tag": "bridal",
       "status": "free",
       "activation": true,
