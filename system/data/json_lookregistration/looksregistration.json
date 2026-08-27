@@ -31,6 +31,7 @@
     {
       "id": "look_soft_grunge",
       "name": "Look Soft Grunge / Indie",
+      "style": "rebel,urban",
       "tag": "Grunge",
       "status": "free",
       "activation": true,
@@ -52,6 +53,7 @@
     {
       "id": "look_coquette",
       "name": "Look Coquette Pink",
+      "style": "cute,romantic",
       "tag": "Coquette",
       "status": "free",
       "activation": true,
@@ -71,7 +73,8 @@
     {
       "id": "cyberpunk_look",
       "name": "Look Cyber Punk",
-      "tag": "Cyberpunk",
+      "style": "fantasy,sexy",
+      "tag": "Cyberpunk,Y2K",
       "status": "free",
       "activation": true,
       "items": [
