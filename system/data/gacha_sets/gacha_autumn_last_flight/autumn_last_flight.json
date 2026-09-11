@@ -138,7 +138,7 @@
           "anchor": { "x": 437, "y": 146, "w": 310, "h": 512 },
           "estrellas": 3,
           "probability": 1.0,
-          "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_three/hair.webp"
+          "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_three/hair.webp",
           "imgback": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_three/img_back_hair.webp"
         },
         {
