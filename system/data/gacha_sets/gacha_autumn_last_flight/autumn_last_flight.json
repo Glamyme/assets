@@ -27,7 +27,8 @@
           "anchor": {"x": 330, "y": 131, "w": 507, "h": 597},
           "estrellas": 5,
           "probability": 1.5,
-          "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_one/orange_hair_last_flight.webp"
+          "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_one/orange_hair_last_flight.webp",
+          "imgback": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_one/back_hair.webp"
         }
       ],
       "decorations": [
