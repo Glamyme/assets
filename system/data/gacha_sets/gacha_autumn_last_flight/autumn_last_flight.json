@@ -16,6 +16,7 @@
           "id": "alf_dress_01",
           "name": "Butterfly Souvenir Dress",
           "cat": "dress",
+          "anchor": { "x": 48, "y": 553, "w": 1149, "h": 1454 },
           "estrellas": 5,
           "probability": 1.0,
           "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_one/butterfly_souvenir_dress.webp"
