@@ -169,6 +169,15 @@
           "estrellas": 3,
           "probability": 1.5,
           "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_three/abrigo.webp"
+          },
+        {
+          "id": "alf_shoes_03",
+          "name": "Hibiscus wedge sandals",
+          "cat": "coat",
+          "anchor": {"x": 503, "y": 1656, "w": 489, "h": 300 },
+          "estrellas": 3,
+          "probability": 1.5,
+          "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_three/shoes.webp"
           }
       ],
       "decorations": [
