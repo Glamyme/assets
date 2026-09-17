@@ -10,7 +10,7 @@
       "img": "system/ui/gifts/Celestial_Crescent.webp",
       "precio": 150,
       "moneda": "diamond_blue",
-      "estrellas": 4
+      "fame_points": 4
     },
     {
       "id": "cool_canine",
@@ -18,7 +18,7 @@
       "img": "system/ui/gifts/Cool_Canine.webp",
       "precio": 120,
       "moneda": "diamond_blue",
-      "estrellas": 3
+      "fame_points": 3
     },
     {
       "id": "cosmic_axolotl",
@@ -26,7 +26,7 @@
       "img": "system/ui/gifts/Cosmic_Axolotl.webp",
       "precio": 180,
       "moneda": "diamond_blue",
-      "estrellas": 4
+      "fame_points": 4
     },
     {
       "id": "crystal_perfume",
@@ -34,7 +34,7 @@
       "img": "system/ui/gifts/Crystal_Perfume.webp",
       "precio": 100,
       "moneda": "diamond_blue",
-      "estrellas": 3
+      "fame_points": 3
     },
     {
       "id": "cute_cloud_and_rainbow",
@@ -42,7 +42,7 @@
       "img": "system/ui/gifts/Cute_Cloud_and_Rainbow.webp",
       "precio": 110,
       "moneda": "diamond_blue",
-      "estrellas": 3
+      "fame_points": 3
     },
     {
       "id": "french_delights",
@@ -50,7 +50,7 @@
       "img": "system/ui/gifts/French_Delights.webp",
       "precio": 90,
       "moneda": "diamond_blue",
-      "estrellas": 3
+      "fame_points": 3
     },
     {
       "id": "glimmering_cherries",
@@ -58,7 +58,7 @@
       "img": "system/ui/gifts/Glimmering_Cherries.webp",
       "precio": 80,
       "moneda": "diamond_blue",
-      "estrellas": 2
+      "fame_points": 2
     },
     {
       "id": "high_fashion_bag",
@@ -66,7 +66,7 @@
       "img": "system/ui/gifts/High_Fashion_Bag.webp",
       "precio": 200,
       "moneda": "diamond_blue",
-      "estrellas": 4
+      "fame_points": 4
     },
     {
       "id": "iconic_kiss",
@@ -74,7 +74,7 @@
       "img": "system/ui/gifts/Iconic_Kiss.webp",
       "precio": 130,
       "moneda": "diamond_blue",
-      "estrellas": 4
+      "fame_points": 4
     },
     {
       "id": "plushie_rabbit",
@@ -82,7 +82,7 @@
       "img": "system/ui/gifts/Plushie_Rabbit.webp",
       "precio": 140,
       "moneda": "diamond_blue",
-      "estrellas": 4
+      "fame_points": 4
     },
     {
       "id": "prism_heart",
@@ -90,7 +90,7 @@
       "img": "system/ui/gifts/Prism_Heart.webp",
       "precio": 160,
       "moneda": "diamond_blue",
-      "estrellas": 4
+      "fame_points": 4
     },
     {
       "id": "rainbow_slice",
@@ -98,7 +98,7 @@
       "img": "system/ui/gifts/Rainbow_Slice.webp",
       "precio": 70,
       "moneda": "diamond_blue",
-      "estrellas": 2
+      "fame_points": 2
     },
     {
       "id": "sparkling_boba",
@@ -106,7 +106,7 @@
       "img": "system/ui/gifts/Sparkling_Boba.webp",
       "precio": 85,
       "moneda": "diamond_blue",
-      "estrellas": 3
+      "fame_points": 3
     },
     {
       "id": "starlight_sparkle",
@@ -114,7 +114,7 @@
       "img": "system/ui/gifts/Starlight_Sparkle.webp",
       "precio": 170,
       "moneda": "diamond_blue",
-      "estrellas": 4
+      "fame_points": 4
     },
     {
       "id": "teacup_kitten",
@@ -122,7 +122,7 @@
       "img": "system/ui/gifts/Teacup_Kitten.webp",
       "precio": 150,
       "moneda": "diamond_blue",
-      "estrellas": 4
+      "fame_points": 4
     },
     {
       "id": "vanity_reflection",
@@ -130,7 +130,7 @@
       "img": "system/ui/gifts/Vanity_Reflection.webp",
       "precio": 190,
       "moneda": "diamond_blue",
-      "estrellas": 4
+      "fame_points": 4
     }
   ]
 }
