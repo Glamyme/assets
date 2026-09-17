@@ -1,0 +1,136 @@
+{
+  "gifts_config": {
+    "version": "1.0.0",
+    "description": "Regalos de GlamyMe (system/ui/gifts)"
+  },
+  "gifts": [
+    {
+      "id": "celestial_crescent",
+      "nombre": "Celestial Crescent",
+      "img": "system/ui/gifts/Celestial_Crescent.webp",
+      "precio": 150,
+      "moneda": "diamond_blue",
+      "estrellas": 4
+    },
+    {
+      "id": "cool_canine",
+      "nombre": "Cool Canine",
+      "img": "system/ui/gifts/Cool_Canine.webp",
+      "precio": 120,
+      "moneda": "diamond_blue",
+      "estrellas": 3
+    },
+    {
+      "id": "cosmic_axolotl",
+      "nombre": "Cosmic Axolotl",
+      "img": "system/ui/gifts/Cosmic_Axolotl.webp",
+      "precio": 180,
+      "moneda": "diamond_blue",
+      "estrellas": 4
+    },
+    {
+      "id": "crystal_perfume",
+      "nombre": "Crystal Perfume",
+      "img": "system/ui/gifts/Crystal_Perfume.webp",
+      "precio": 100,
+      "moneda": "diamond_blue",
+      "estrellas": 3
+    },
+    {
+      "id": "cute_cloud_and_rainbow",
+      "nombre": "Cute Cloud and Rainbow",
+      "img": "system/ui/gifts/Cute_Cloud_and_Rainbow.webp",
+      "precio": 110,
+      "moneda": "diamond_blue",
+      "estrellas": 3
+    },
+    {
+      "id": "french_delights",
+      "nombre": "French Delights",
+      "img": "system/ui/gifts/French_Delights.webp",
+      "precio": 90,
+      "moneda": "diamond_blue",
+      "estrellas": 3
+    },
+    {
+      "id": "glimmering_cherries",
+      "nombre": "Glimmering Cherries",
+      "img": "system/ui/gifts/Glimmering_Cherries.webp",
+      "precio": 80,
+      "moneda": "diamond_blue",
+      "estrellas": 2
+    },
+    {
+      "id": "high_fashion_bag",
+      "nombre": "High Fashion Bag",
+      "img": "system/ui/gifts/High_Fashion_Bag.webp",
+      "precio": 200,
+      "moneda": "diamond_blue",
+      "estrellas": 4
+    },
+    {
+      "id": "iconic_kiss",
+      "nombre": "Iconic Kiss",
+      "img": "system/ui/gifts/Iconic_Kiss.webp",
+      "precio": 130,
+      "moneda": "diamond_blue",
+      "estrellas": 4
+    },
+    {
+      "id": "plushie_rabbit",
+      "nombre": "Plushie Rabbit",
+      "img": "system/ui/gifts/Plushie_Rabbit.webp",
+      "precio": 140,
+      "moneda": "diamond_blue",
+      "estrellas": 4
+    },
+    {
+      "id": "prism_heart",
+      "nombre": "Prism Heart",
+      "img": "system/ui/gifts/Prism_Heart.webp",
+      "precio": 160,
+      "moneda": "diamond_blue",
+      "estrellas": 4
+    },
+    {
+      "id": "rainbow_slice",
+      "nombre": "Rainbow Slice",
+      "img": "system/ui/gifts/Rainbow_Slice.webp",
+      "precio": 70,
+      "moneda": "diamond_blue",
+      "estrellas": 2
+    },
+    {
+      "id": "sparkling_boba",
+      "nombre": "Sparkling Boba",
+      "img": "system/ui/gifts/Sparkling_Boba.webp",
+      "precio": 85,
+      "moneda": "diamond_blue",
+      "estrellas": 3
+    },
+    {
+      "id": "starlight_sparkle",
+      "nombre": "Starlight Sparkle",
+      "img": "system/ui/gifts/Starlight_Sparkle.webp",
+      "precio": 170,
+      "moneda": "diamond_blue",
+      "estrellas": 4
+    },
+    {
+      "id": "teacup_kitten",
+      "nombre": "Teacup Kitten",
+      "img": "system/ui/gifts/Teacup_Kitten.webp",
+      "precio": 150,
+      "moneda": "diamond_blue",
+      "estrellas": 4
+    },
+    {
+      "id": "vanity_reflection",
+      "nombre": "Vanity Reflection",
+      "img": "system/ui/gifts/Vanity_Reflection.webp",
+      "precio": 190,
+      "moneda": "diamond_blue",
+      "estrellas": 4
+    }
+  ]
+}
