@@ -173,7 +173,7 @@
         {
           "id": "alf_shoes_03",
           "name": "Hibiscus wedge sandals",
-          "cat": "coat",
+          "cat": "shoes",
           "anchor": {"x": 503, "y": 1656, "w": 489, "h": 300 },
           "estrellas": 3,
           "probability": 1.5,
