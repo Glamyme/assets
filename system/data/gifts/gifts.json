@@ -119,7 +119,7 @@
     {
       "id": "teacup_kitten",
       "nombre": "Teacup Kitten",
-       "card": "system/ui/gifts/Teacup_Kitten_back.web",
+       "card": "system/ui/gifts/Teacup_Kitten_back.webp",
        "sticker": "system/ui/gifts/Teacup_Kitten.webp",
       "precio": 150,
       "moneda": "diamond_blue",
