@@ -15,7 +15,8 @@
     {
       "id": "cool_canine",
       "nombre": "Cool Canine",
-      "img": "system/ui/gifts/Cool_Canine.webp",
+      "card": "system/ui/gifts/Cool_Canine_back.webp",
+      "sticker": "system/ui/gifts/Cool_Canine.webp",
       "precio": 120,
       "moneda": "diamond_blue",
       "fame_points": 3
