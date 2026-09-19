@@ -26,6 +26,7 @@
     "nombre": "Corte Pixie",
     "precio": 300,
     "imagen": "system/hair/hair_4.webp",
+    "imgback": "system/hair/hair_4_back.webp",
     "anchor": { "x": 384, "y": 126, "w": 372, "h": 617 }
   }
 ]
