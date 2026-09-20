@@ -195,7 +195,7 @@
           "anchor": {"x": 653, "y": 1072, "w": 313, "h": 322 },
           "estrellas": 3,
           "probability": 1.5,
-          "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_three/beach_bag.webp"
+          "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_three/necklace.webp"
           },
         {
           "id": "alf_shoes_03",
@@ -204,7 +204,7 @@
           "anchor": {"x": 514, "y": 420, "w": 151, "h": 138 },
           "estrellas": 3,
           "probability": 1.5,
-          "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_three/necklace.webp"
+          "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_three/shoes.webp"
           }
       ],
       "decorations": [
