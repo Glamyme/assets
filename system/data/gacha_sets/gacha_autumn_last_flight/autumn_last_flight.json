@@ -200,7 +200,7 @@
          {
           "id": "alf_crown_03",
           "name": "crown Hibiscus",
-          "cat": "accessory",
+          "cat": "hooks",
           "anchor": { "x": 439, "y": 156, "w": 296, "h": 157 },
           "estrellas": 3,
           "probability": 1.5,
