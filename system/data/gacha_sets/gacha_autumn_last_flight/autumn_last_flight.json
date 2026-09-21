@@ -31,10 +31,10 @@
           "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_one/chest_butterflies.webp"
         },
         {
-          "id": "alf_chest_butterflies_01",
+          "id": "alf_butterfly_necklace_01",
           "name": "butterfly necklace",
           "cat": "accessory",
-          "anchor": { "x": 447, "y": 456, "w": 303, "h": 88 },
+          "anchor": { "x": 447, "y": 456, "w": 303, "h": 88 }
           "estrellas": 5,
           "probability": 1.0,
           "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_one/butterfly_necklace.webp"
@@ -46,7 +46,7 @@
           "anchor": { "x": 455, "y": 190, "w": 255, "h": 89 },
           "estrellas": 5,
           "probability": 1.0,
-          "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_one/butterfly_hook.webp"
+          "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_one/butterfly_necklace.webp"
         },
         {
           "id": "alf_hair_01",
