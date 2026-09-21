@@ -34,7 +34,7 @@
           "id": "alf_butterfly_necklace_01",
           "name": "butterfly necklace",
           "cat": "accessory",
-          "anchor": { "x": 447, "y": 456, "w": 303, "h": 88 },
+          "anchor": { "x": 529, "y": 432, "w": 124, "h": 142 }
           "estrellas": 5,
           "probability": 1.0,
           "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_one/butterfly_necklace.webp"
