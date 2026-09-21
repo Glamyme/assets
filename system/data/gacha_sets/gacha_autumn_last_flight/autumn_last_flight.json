@@ -197,6 +197,15 @@
           "probability": 1.5,
           "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_three/necklace.webp"
           },
+         {
+          "id": "alf_crown_03",
+          "name": "crown Hibiscus",
+          "cat": "accessory",
+          "anchor": { "x": 439, "y": 156, "w": 296, "h": 157 },
+          "estrellas": 3,
+          "probability": 1.5,
+          "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_three/flower_crown.webp"
+          },
         {
           "id": "alf_shoes_03",
           "name": "Hibiscus wedge sandals",
