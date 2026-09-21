@@ -24,7 +24,7 @@
         {
           "id": "alf_chest_butterflies_01",
           "name": "chest butterflies",
-          "cat": "accsesory",
+          "cat": "accessory",
           "anchor": { "x": 447, "y": 456, "w": 303, "h": 88 },
           "estrellas": 5,
           "probability": 1.0,
