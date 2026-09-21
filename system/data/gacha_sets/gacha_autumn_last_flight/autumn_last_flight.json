@@ -23,9 +23,9 @@
         },
         {
           "id": "alf_chest_butterflies_01",
-          "name": "butterfly hook",
-          "cat": "hook",
-          "anchor": { "x": 455, "y": 190, "w": 255, "h": 89 },
+          "name": "chest butterflies",
+          "cat": "accsesory",
+          "anchor": { "x": 447, "y": 456, "w": 303, "h": 88 }
           "estrellas": 5,
           "probability": 1.0,
           "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_one/chest_butterflies.webp"
