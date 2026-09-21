@@ -42,11 +42,11 @@
         {
           "id": "alf_butterfly_hook_01",
           "name": "butterfly hook",
-          "cat": "accessory",
+          "cat": "hook",
           "anchor": { "x": 455, "y": 190, "w": 255, "h": 89 },
           "estrellas": 5,
           "probability": 1.0,
-          "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_one/butterfly_necklace.webp"
+          "img": "system/gachas_sets/gacha_autumn_last_flight/clothes_set_one/butterfly_hook.webp"
         },
         {
           "id": "alf_hair_01",
