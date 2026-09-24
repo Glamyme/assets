@@ -1,6 +1,6 @@
 {
   "gacha_config": {
-    "id": "ggacha_autumn_last_flight",
+    "id": "gacha_autumn_last_flight",
     "name": "Autumn Last Flight",
     "description": "Edición Limitada Otoñal: Consigue sets exclusivos de ropa y decoración",
     "price_per_pull": { "amount": 150, "currency": "diamond_black" },
