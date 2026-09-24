@@ -1,0 +1,22 @@
+{
+  "pases": [
+    {
+      "id": "Fashion_vault_septiembre_2026",
+      "nombre": "First Crush Dat",
+      "proveedor": "xsolla",
+      "precio": { "amount": 4.99, "currency": "USD" },
+      "condicion": "pago_real",
+      "periodo": { "inicio": "2026-09-01", "fin": "2026-09-30" },
+      "look_recompensa": {
+        "id": "look_glamour_royal",
+        "items": [
+          { "id": "fcd_hair_1",
+            "name":"Cascading Romantic Waves"
+            "cat": "hair", "img": "system/Fashion_Vault/First_Crush_Date/wavy_hair.webp",
+            "imagen back": "system/Fashion_Vault/First_Crush_Date/wavy_hair_back.webp",
+            "anchor": { "x": 326, "y": 113, "w": 507, "h": 681 } },
+        ]
+      }
+    }
+  ]
+}
