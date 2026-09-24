@@ -8,13 +8,13 @@
       "condicion": "pago_real",
       "periodo": { "inicio": "2026-09-01", "fin": "2026-09-30" },
       "look_recompensa": {
-        "id": "look_glamour_royal",
+        "id": "look_first_crush_date",
         "items": [
           { "id": "fcd_hair_1",
-            "name":"Cascading Romantic Waves"
+            "name":"Cascading Romantic Waves",
             "cat": "hair", "img": "system/Fashion_Vault/First_Crush_Date/wavy_hair.webp",
-            "imagen back": "system/Fashion_Vault/First_Crush_Date/wavy_hair_back.webp",
-            "anchor": { "x": 326, "y": 113, "w": 507, "h": 681 } },
+            "imagen_back": "system/Fashion_Vault/First_Crush_Date/wavy_hair_back.webp",
+            "anchor": { "x": 326, "y": 113, "w": 507, "h": 681 } }
         ]
       }
     }
