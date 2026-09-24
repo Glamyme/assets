@@ -2,7 +2,7 @@
   "pases": [
     {
       "id": "Fashion_vault_septiembre_2026",
-      "nombre": "First Crush Dat",
+      "nombre": "First Crush Date",
       "proveedor": "xsolla",
       "precio": { "amount": 4.99, "currency": "USD" },
       "condicion": "pago_real",
