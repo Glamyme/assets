@@ -8,8 +8,8 @@
   },
   "sets_gacha": [
     {
-      "set_id": "Prism_of_fashion_one",
-      "set_name": "Set 4:Gilded Opulence",
+      "set_id": "Prism_of_fashion_two",
+      "set_name": "Set 2:Gilded Opulence",
       "status": "active",
       "clothes": [
         {
@@ -66,7 +66,57 @@
           "estrellas": 3,
           "probability": 0.6,
           "img": "system/permanent_gachas/Prism_Of_Fashion/Gilded_Opulence_look_number_2/background.webp"  
+        },
+          {
+      "set_id": "Prism_of_fashion_four",
+      "set_name": "Set 4:Pink spirit",
+      "status": "active",
+      "clothes": [
+        {
+          "id": "pinksp_skirt_01",
+          "name": "Pleated Skirt",
+          "cat": "bag",
+          "anchor": { "x": 246, "y": 1086, "w": 167, "h": 229 },
+          "estrellas": 5,
+          "probability": 1.0,
+          "img": "system/permanent_gachas/Prism_Of_Fashion/Cheerleader_look_number_4/skirt.webp"
+        },
+        {
+          "id": "pinksp_sneackers_01",
+          "name": "Chunky Sneakers",
+          "cat": "accessory",
+          "anchor": { "x": 476, "y": 725, "w": 207, "h": 70 },
+          "estrellas": 5,
+          "probability": 1.0,
+          "img": "system/permanent_gachas/Prism_Of_Fashion/Cheerleader_look_number_4/sneackers.webp"
+        },
+        {
+          "id": "pinksp_socks_01",
+          "name": "Varsity Socks",
+          "cat": "coat",
+          "anchor": { "x": 246, "y": 373, "w": 679, "h": 818 },
+          "estrellas": 5,
+          "probability": 1.5,
+          "img": "system/permanent_gachas/Prism_Of_Fashion/Cheerleader_look_number_4/socks.webp"
+          },
+          {
+          "id": "pinksp_top_01",
+          "name": "Crop Top spirit",
+          "cat": "dress",
+          "anchor": { "x": 395, "y": 566, "w": 359, "h": 580 },
+          "estrellas": 5,
+          "probability": 1.0,
+          "img": "system/permanent_gachas/Prism_Of_Fashion/Cheerleader_look_number_4/top.webp"
         }
+         ],
+      "decorations": [
+        {
+          "id": "pinksp_backgroung_01",
+          "name": "Pink spirit soccer field",
+          "cat": "background",
+          "estrellas": 3,
+          "probability": 0.6,
+          "img": "system/permanent_gachas/Prism_Of_Fashion/Gilded_Opulence_look_number_2/background.webp"
       ]
     }
   ]
