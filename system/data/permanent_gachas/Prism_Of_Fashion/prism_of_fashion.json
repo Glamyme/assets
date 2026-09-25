@@ -66,6 +66,8 @@
           "estrellas": 3,
           "probability": 0.6,
           "img": "system/permanent_gachas/Prism_Of_Fashion/Gilded_Opulence_look_number_2/background.webp"  
+         }
+       ]
         },
           {
       "set_id": "Prism_of_fashion_four",
@@ -75,8 +77,8 @@
         {
           "id": "pinksp_skirt_01",
           "name": "Pleated Skirt",
-          "cat": "bag",
-          "anchor": { "x": 246, "y": 1086, "w": 167, "h": 229 },
+          "cat": "pants",
+          "anchor": {"x": 350, "y": 788, "w": 421, "h": 345},
           "estrellas": 5,
           "probability": 1.0,
           "img": "system/permanent_gachas/Prism_Of_Fashion/Cheerleader_look_number_4/skirt.webp"
@@ -84,8 +86,8 @@
         {
           "id": "pinksp_sneackers_01",
           "name": "Chunky Sneakers",
-          "cat": "accessory",
-          "anchor": { "x": 476, "y": 725, "w": 207, "h": 70 },
+          "cat": "shoes",
+          "anchor": { "x": 479, "y": 1713, "w": 534, "h": 227},
           "estrellas": 5,
           "probability": 1.0,
           "img": "system/permanent_gachas/Prism_Of_Fashion/Cheerleader_look_number_4/sneackers.webp"
@@ -93,8 +95,8 @@
         {
           "id": "pinksp_socks_01",
           "name": "Varsity Socks",
-          "cat": "coat",
-          "anchor": { "x": 246, "y": 373, "w": 679, "h": 818 },
+          "cat": "accessory",
+          "anchor": {"x": 474, "y": 1402, "w": 514, "h": 519},
           "estrellas": 5,
           "probability": 1.5,
           "img": "system/permanent_gachas/Prism_Of_Fashion/Cheerleader_look_number_4/socks.webp"
@@ -102,8 +104,8 @@
           {
           "id": "pinksp_top_01",
           "name": "Crop Top spirit",
-          "cat": "dress",
-          "anchor": { "x": 395, "y": 566, "w": 359, "h": 580 },
+          "cat": "top",
+          "anchor": {"x": 450, "y": 450, "w": 269, "h": 286},
           "estrellas": 5,
           "probability": 1.0,
           "img": "system/permanent_gachas/Prism_Of_Fashion/Cheerleader_look_number_4/top.webp"
@@ -116,8 +118,8 @@
           "cat": "background",
           "estrellas": 3,
           "probability": 0.6,
-          "img": "system/permanent_gachas/Prism_Of_Fashion/Gilded_Opulence_look_number_2/background.webp"
-         }, 
+          "img": "system/permanent_gachas/Prism_Of_Fashion/Cheerleader_look_number_4/soccer_field.webp"
+         } 
       ]
     }
   ]
