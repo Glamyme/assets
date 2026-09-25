@@ -77,7 +77,7 @@
         {
           "id": "pinksp_skirt_01",
           "name": "Pleated Skirt",
-          "cat": "pants",
+          "cat": "bottom",
           "anchor": {"x": 350, "y": 788, "w": 421, "h": 345},
           "estrellas": 5,
           "probability": 1.0,
