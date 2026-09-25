@@ -9,14 +9,14 @@
   "sets_gacha": [
     {
       "set_id": "Prism_of_fashion_one",
-      "set_name": "Set 4:Gilded Opulence ",
+      "set_name": "Set 4:Gilded Opulence",
       "status": "active",
       "clothes": [
         {
           "id": "gilop_bag_01",
           "name": "Golden Interweave",
           "cat": "bag",
-          "anchor": { "x": 246, "y": 1086, "w": 167, "h": 229 }:
+          "anchor": { "x": 246, "y": 1086, "w": 167, "h": 229 },
           "estrellas": 5,
           "probability": 1.0,
           "img": "system/permanent_gachas/Prism_Of_Fashion/Gilded_Opulence_look_number_2/bag.webp"
@@ -24,7 +24,7 @@
         {
           "id": "gilop_belt_01",
           "name": "Liquid Gold",
-          "cat": "acsesory",
+          "cat": "accessory",
           "anchor": { "x": 476, "y": 725, "w": 207, "h": 70 },
           "estrellas": 5,
           "probability": 1.0,
@@ -40,7 +40,7 @@
           "img": "system/permanent_gachas/Prism_Of_Fashion/Gilded_Opulence_look_number_2/coat.webp",
           },
           {
-          "id": "gilop_dress_hook_01",
+          "id": "gilop_dress_01",
           "name": "Geometric Cocktail Dress",
           "cat": "dress",
           "anchor": { "x": 395, "y": 566, "w": 359, "h": 580 },
@@ -56,7 +56,7 @@
           "estrellas": 5,
           "probability": 1.0,
           "img": "system/permanent_gachas/Prism_Of_Fashion/Gilded_Opulence_look_number_2/high_heels.webp"
-        },
+        }
       ]
     }
   ]
