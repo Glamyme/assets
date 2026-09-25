@@ -25,7 +25,7 @@
           "id": "gilop_belt_01",
           "name": "Liquid Gold",
           "cat": "acsesory",
-          "anchor": { "x": 333, "y": 725, "w": 349, "h": 574 },
+          "anchor": { "x": 476, "y": 725, "w": 207, "h": 70 },
           "estrellas": 5,
           "probability": 1.0,
           "img": "system/permanent_gachas/Prism_Of_Fashion/Gilded_Opulence_look_number_2/belt.webp"
