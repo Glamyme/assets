@@ -9,21 +9,23 @@
   "sets_gacha": [
     {
       "set_id": "Prism_of_fashion_one",
-      "set_name": "Set 1:Gilded Opulence ",
+      "set_name": "Set 4:Gilded Opulence ",
       "status": "active",
       "clothes": [
         {
           "id": "gilop_bag_01",
           "name": "Golden Interweave",
           "cat": "bag",
-          "anchor": { "x": 529, "y": 432, "w": 124, "h": 142 },"estrellas": 5, "probability": 1.0,
+          "anchor": { "x": 246, "y": 1086, "w": 167, "h": 229 }:
+          "estrellas": 5,
+          "probability": 1.0,
           "img": "system/permanent_gachas/Prism_Of_Fashion/Gilded_Opulence_look_number_2/bag.webp"
         },
         {
           "id": "gilop_belt_01",
           "name": "Liquid Gold",
           "cat": "acsesory",
-          "anchor": { "x": 455, "y": 190, "w": 255, "h": 89 },
+          "anchor": { "x": 333, "y": 725, "w": 349, "h": 574 },
           "estrellas": 5,
           "probability": 1.0,
           "img": "system/permanent_gachas/Prism_Of_Fashion/Gilded_Opulence_look_number_2/belt.webp"
@@ -32,7 +34,7 @@
           "id": "gilop_coat_01",
           "name": "Ivory Empress",
           "cat": "coat",
-          "anchor": {"x": 330, "y": 131, "w": 507, "h": 597},
+          "anchor": { "x": 246, "y": 373, "w": 679, "h": 818 },
           "estrellas": 5,
           "probability": 1.5,
           "img": "system/permanent_gachas/Prism_Of_Fashion/Gilded_Opulence_look_number_2/coat.webp",
@@ -41,7 +43,7 @@
           "id": "gilop_dress_hook_01",
           "name": "Geometric Cocktail Dress",
           "cat": "dress",
-          "anchor": { "x": 455, "y": 190, "w": 255, "h": 89 },
+          "anchor": { "x": 395, "y": 566, "w": 359, "h": 580 },
           "estrellas": 5,
           "probability": 1.0,
           "img": "system/permanent_gachas/Prism_Of_Fashion/Gilded_Opulence_look_number_2/dress.webp"
@@ -50,12 +52,11 @@
           "id": "gilop_high_heels_01",
           "name": "Lucid Gold Platform",
           "cat": "shoes",
-          "anchor": { "x": 455, "y": 190, "w": 255, "h": 89 },
+          "anchor": { "x": 506, "y": 1702, "w": 484, "h": 251 },
           "estrellas": 5,
           "probability": 1.0,
           "img": "system/permanent_gachas/Prism_Of_Fashion/Gilded_Opulence_look_number_2/high_heels.webp"
         },
-        }
       ]
     }
   ]
