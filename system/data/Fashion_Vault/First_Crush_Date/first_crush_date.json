@@ -19,7 +19,7 @@
             "id": "fcd_dress_1",
             "name":"Sweetheart Pleated",
             "cat": "dress", "img": "system/Fashion_Vault/First_Crush_Date/dress.webp",
-            "anchor": { "x": 479, "y": 1713, "w": 534, "h": 227 } },
+            "anchor": { "x": 393, "y": 549, "w": 567, "h": 587 } },
           { 
             "id": "fcd_pantyhouse_1",
             "name":"Pearl & Ribbon Mesh Tights",
