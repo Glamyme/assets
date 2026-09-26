@@ -14,7 +14,22 @@
             "name":"Cascading Romantic Waves",
             "cat": "hair", "img": "system/Fashion_Vault/First_Crush_Date/wavy_hair.webp",
             "imgback": "system/Fashion_Vault/First_Crush_Date/wavy_hair_back.webp",
-            "anchor": { "x": 326, "y": 113, "w": 507, "h": 681 } }
+            "anchor": { "x": 326, "y": 113, "w": 507, "h": 681 } },
+          { 
+            "id": "fcd_dress_1",
+            "name":"Sweetheart Pleated",
+            "cat": "dress", "img": "system/Fashion_Vault/First_Crush_Date/dress.webp",
+            "anchor": { "x": 479, "y": 1713, "w": 534, "h": 227 } },
+          { 
+            "id": "fcd_pantyhouse_1",
+            "name":"Pearl & Ribbon Mesh Tights",
+            "cat": "shoes", "img": "system/Fashion_Vault/First_Crush_Date/pantyhose.webp",
+            "anchor": { "x": 394, "y": 778, "w": 592, "h": 1140 } },
+           {
+            "id": "fcd_sweater_1",
+            "name":"Pastel Bow Tweed",
+            "cat": "coat", "img": "system/Fashion_Vault/First_Crush_Date/sweater.webp",
+            "anchor": { "x": 296, "y": 436, "w": 528, "h": 573 } }
         ]
       }
     }
