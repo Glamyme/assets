@@ -98,7 +98,7 @@
     {
       "id": "rainbow_slice",
       "nombre": "Rainbow Slice",
-       "card": "system/ui/gifts/SRainbow_Slice_back.webp",
+       "card": "system/ui/gifts/Rainbow_Slice_back.webp",
       "sticker": "system/ui/gifts/Rainbow_Slice.webp",
       "precio": 70,
       "moneda": "diamond_blue",
