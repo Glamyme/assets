@@ -32,7 +32,8 @@
     {
       "id": "crystal_perfume",
       "nombre": "Crystal Perfume",
-      "img": "system/ui/gifts/Crystal_Perfume.webp",
+      "card": "system/ui/gifts/Crystal_Perfume_back.webp",
+      "sticker": "system/ui/gifts/Crystal_Perfume.webp",
       "precio": 100,
       "moneda": "diamond_blue",
       "fame_points": 3
