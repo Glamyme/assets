@@ -81,7 +81,7 @@
       "id": "plushie_rabbit",
       "nombre": "Plushie Rabbit",
       "card":"system/ui/gifts/Plushie_Rabbit_back.webp",
-      "img": "system/ui/gifts/Plushie_Rabbit.webp",
+      "sticker": "system/ui/gifts/Plushie_Rabbit.webp",
       "precio": 140,
       "moneda": "diamond_blue",
       "fame_points": 4
