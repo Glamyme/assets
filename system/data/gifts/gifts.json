@@ -48,7 +48,8 @@
     {
       "id": "french_delights",
       "nombre": "French Delights",
-      "img": "system/ui/gifts/French_Delights.webp",
+      "card": "system/ui/gifts/French_Delights_back.webp",
+      "sticker": "system/ui/gifts/French_Delights.webp",
       "precio": 90,
       "moneda": "diamond_blue",
       "fame_points": 3
@@ -97,7 +98,8 @@
     {
       "id": "rainbow_slice",
       "nombre": "Rainbow Slice",
-      "img": "system/ui/gifts/Rainbow_Slice.webp",
+       "card": "system/ui/gifts/SRainbow_Slice_back.webp",
+      "sticker": "system/ui/gifts/Rainbow_Slice.webp",
       "precio": 70,
       "moneda": "diamond_blue",
       "fame_points": 2
