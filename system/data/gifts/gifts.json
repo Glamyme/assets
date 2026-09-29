@@ -105,7 +105,8 @@
     {
       "id": "sparkling_boba",
       "nombre": "Sparkling Boba",
-      "img": "system/ui/gifts/Sparkling_Boba.webp",
+      "card": "system/ui/gifts/Sparkling_Boba.webp",
+      "sticker": "system/ui/gifts/Sparkling_Boba_back.webpp",
       "precio": 85,
       "moneda": "diamond_blue",
       "fame_points": 3
