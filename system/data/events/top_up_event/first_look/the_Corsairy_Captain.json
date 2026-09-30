@@ -7,8 +7,8 @@
       "condicion": "pago_real",
       "periodo": { "inicio": "2026-09-01", "fin": "2026-09-30" },
         "moneda_recarga": {
-        "id": "top_up_points",
-        "nombre": "Puntos de Recarga",
+        "id": "vip_exp",
+        "nombre": "VIP EXP",
         "icono": "system/ui/currencies/top_up_point.webp"
       "look_recompensa": {
         "id": "The Corsairy Captain",
