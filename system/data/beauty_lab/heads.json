@@ -16,7 +16,7 @@
       "id": "elara_face",
       "nombre": "Elara Face",
       "folder": "system/heads/elara_face",
-      "anchor": { "x": 493, "y": 162, "w": 271, "h": 306 },
+      "anchor": { "x": 493, "y": 162, "w": 187, "h": 264 },
       "versiones": [
         "system/heads/elara_face/elara_face_tone_1.webp", "system/heads/elara_face/elara_face_tone_2.webp",
         "system/heads/elara_face/elara_face_tone_3.webp", "system/heads/elara_face/elara_face_tone_4.webp",
