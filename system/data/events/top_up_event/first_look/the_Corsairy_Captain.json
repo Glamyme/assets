@@ -2,48 +2,40 @@
   "events": [
     {
       "id": "the_Corsairy_Captain_2027",
-       "tipo": "top_up_event",
+      "tipo": "top_up_event",
       "nombre": "The Corsairy Captain",
       "condicion": "pago_real",
       "periodo": { "inicio": "2026-09-01", "fin": "2026-09-30" },
-        "moneda_recarga": {
+      "moneda_recarga": {
         "id": "vip_exp",
         "nombre": "VIP EXP",
         "icono": "system/ui/currencies/top_up_point.webp"
+      },
       "look_recompensa": {
-        "id": "The Corsairy Captain",
+        "id": "the_corsairy_captain",
         "items": [
-          { "id": "thecocap_top_01",
-            "name":"Cascading Romantic Waves",
-            "cat": "top", "img": "system/events/top_up_event/first_look/top.webp",
-            "anchor": {"x": 419, "y": 557, "w": 305, "h": 331 } },
-          { 
-            "id": "thecocap_boots_01",
-            "name":"Captain Boots",
-            "cat": "shoes", "img": "system/events/top_up_event/first_look/shoes.webp",
-             "anchor": {"x": 465, "y": 1392, "w": 550, "h": 548} },
-          { 
-            "id": "thecocap_pants_01",
-            "name":"Corsair Pants",
-            "cat": "bottoms", "img": "system/events/top_up_event/first_look/pants.webpp",
-             "anchor": {"x": 397, "y": 764, "w": 524, "h": 949} }
-           {
-            "id": "thecocap_corset_01",
-            "name":"Laced Corset",
-            "cat": "accsessory", "img": "system/events/top_up_event/first_look/corset.webp",
-            "anchor": {"x": 462, "y": 642, "w": 249, "h": 181} },
-          { 
-            "id": "thecocap_coat_01",
-            "name":"Ruffled Jacket",
-            "cat": "coat", "img": "system/events/top_up_event/first_look/pants.webpp",
-            "anchor": {"x": 274, "y": 379, "w": 581, "h": 644} }
+          { "id": "thecocap_top_01", "name": "Cascading Romantic Waves", "cat": "top",
+            "img": "system/events/top_up_event/first_look/top.webp",
+            "anchor": { "x": 419, "y": 557, "w": 305, "h": 331 } },
+          { "id": "thecocap_boots_01", "name": "Captain Boots", "cat": "shoes",
+            "img": "system/events/top_up_event/first_look/shoes.webp",
+            "anchor": { "x": 465, "y": 1392, "w": 550, "h": 548 } },
+          { "id": "thecocap_pants_01", "name": "Corsair Pants", "cat": "bottom",
+            "img": "system/events/top_up_event/first_look/pants.webp",
+            "anchor": { "x": 397, "y": 764, "w": 524, "h": 949 } },
+          { "id": "thecocap_corset_01", "name": "Laced Corset", "cat": "accessory",
+            "img": "system/events/top_up_event/first_look/corset.webp",
+            "anchor": { "x": 462, "y": 642, "w": 249, "h": 181 } },
+          { "id": "thecocap_coat_01", "name": "Ruffled Jacket", "cat": "coat",
+            "img": "system/events/top_up_event/first_look/coat.webp",
+            "anchor": { "x": 274, "y": 379, "w": 581, "h": 644 } }
         ]
       },
       "hitos": [
         { "puntos": 50,  "tipo": "elegir", "cantidad": 2, "grupo": "look" },
         { "puntos": 150, "tipo": "elegir", "cantidad": 2, "grupo": "look" },
-        { "puntos": 300, "tipo": "item",   "item_id": "corsairy_coat_1" }
-        ]
-      }
+        { "puntos": 300, "tipo": "item",   "item_id": "thecocap_coat_01" }
+      ]
     }
   ]
+}
