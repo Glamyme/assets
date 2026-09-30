@@ -16,7 +16,7 @@
         "items": [
           { "id": "thecocap_top_01", "name": "Cascading Romantic Waves", "cat": "top",
             "img": "system/events/top_up_event/first_look/top.webp",
-            "anchor": { "x": 419, "y": 557, "w": 305, "h": 331 } },
+            "anchor": {"x": 449, "y": 557, "w": 274, "h": 271} },
           { "id": "thecocap_boots_01", "name": "Captain Boots", "cat": "shoes",
             "img": "system/events/top_up_event/first_look/shoes.webp",
             "anchor": { "x": 465, "y": 1392, "w": 550, "h": 548 } },
