@@ -28,7 +28,10 @@
             "anchor": { "x": 462, "y": 642, "w": 249, "h": 181 } },
           { "id": "thecocap_coat_01", "name": "Ruffled Jacket", "cat": "coat",
             "img": "system/events/top_up_event/first_look/coat.webp",
-            "anchor": { "x": 274, "y": 379, "w": 581, "h": 644 } }
+            "anchor": { "x": 274, "y": 379, "w": 581, "h": 644 } },
+          { "id": "thecocap_hair_01", "name": "Corsairy Blonde", "cat": "hair",
+            "img": "system/events/top_up_event/first_look/coat.webp",
+            "anchor": {"x": 399, "y": 140, "w": 357, "h": 551} }
         ]
       },
       "hitos": [
