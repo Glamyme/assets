@@ -29,7 +29,7 @@
           { "id": "thecocap_coat_01", "name": "Ruffled Jacket", "cat": "coat",
             "img": "system/events/top_up_event/first_look/coat.webp",
             "anchor": { "x": 274, "y": 379, "w": 581, "h": 644 } },
-          { "id": "thecocap_hair_01", "name": "Corsairy Blonde", "cat": "hair",
+          { "id": "thecocap_hair_01", "name": "Tradewind Mane", "cat": "hair",
             "img": "system/events/top_up_event/first_look/hair_blonde.webp",
             "anchor": {"x": 399, "y": 140, "w": 357, "h": 551} }
         ]
