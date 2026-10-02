@@ -75,7 +75,8 @@
     {
       "id": "iconic_kiss",
       "nombre": "Iconic Kiss",
-      "img": "system/ui/gifts/Iconic_Kiss.webp",
+      "card":"system/ui/gifts/Iconic_Kiss_back.webp",
+      "sticker": "system/ui/gifts/Iconic_Kiss.webp",
       "precio": 130,
       "moneda": "diamond_blue",
       "fame_points": 4
