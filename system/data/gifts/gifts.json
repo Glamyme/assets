@@ -91,7 +91,8 @@
     {
       "id": "prism_heart",
       "nombre": "Prism Heart",
-      "img": "system/ui/gifts/Prism_Heart.webp",
+      "card":"system/ui/gifts/Prism_Heart_back.webp",
+      "sticker": "system/ui/gifts/Prism_Heart.webp",
       "precio": 160,
       "moneda": "diamond_blue",
       "fame_points": 4
