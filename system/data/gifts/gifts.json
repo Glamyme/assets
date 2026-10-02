@@ -41,7 +41,8 @@
     {
       "id": "cute_cloud_and_rainbow",
       "nombre": "Cute Cloud and Rainbow",
-      "img": "system/ui/gifts/Cute_Cloud_and_Rainbow.webp",
+      "card": "system/ui/gifts/Cute_Cloud_and_Rainbow_back.webp",
+      "sticker": "system/ui/gifts/Cute_Cloud_and_Rainbow.webp",
       "precio": 110,
       "moneda": "diamond_blue",
       "fame_points": 3
