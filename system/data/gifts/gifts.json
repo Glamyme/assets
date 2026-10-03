@@ -67,7 +67,8 @@
     {
       "id": "high_fashion_bag",
       "nombre": "High Fashion Bag",
-      "img": "system/ui/gifts/High_Fashion_Bag.webp",
+      "card": "ssystem/ui/gifts/High_Fashion_Bag_back.webp",
+      "sticker": "system/ui/gifts/High_Fashion_Bag.webp",
       "precio": 200,
       "moneda": "diamond_blue",
       "fame_points": 4
