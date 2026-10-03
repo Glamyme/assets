@@ -59,7 +59,8 @@
     {
       "id": "glimmering_cherries",
       "nombre": "Glimmering Cherries",
-      "img": "system/ui/gifts/Glimmering_Cherries.webp",
+      "card": "system/ui/gifts/Glimmering_Cherries_back.webp",
+      "sticker": "system/ui/gifts/Glimmering_Cherries.webp",
       "precio": 80,
       "moneda": "diamond_blue",
       "fame_points": 2
