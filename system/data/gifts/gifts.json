@@ -131,8 +131,8 @@
     {
       "id": "teacup_kitten",
       "nombre": "Teacup Kitten",
-       "card": "system/ui/gifts/Teacup_Kitten_back.webp",
-       "sticker": "system/ui/gifts/Teacup_Kitten.webp",
+      "card": "system/ui/gifts/Teacup_Kitten_back.webp",
+      "sticker": "system/ui/gifts/Teacup_Kitten.webp",
       "precio": 150,
       "moneda": "diamond_blue",
       "fame_points": 4
@@ -140,7 +140,8 @@
     {
       "id": "vanity_reflection",
       "nombre": "Vanity Reflection",
-      "img": "system/ui/gifts/Vanity_Reflection.webp",
+     "card": "system/ui/gifts/Vanity_Reflection_back.webp",
+      "sticker": "system/ui/gifts/Vanity_Reflection.webp",
       "precio": 190,
       "moneda": "diamond_blue",
       "fame_points": 4
