@@ -7,7 +7,8 @@
     {
       "id": "celestial_crescent",
       "nombre": "Celestial Crescent",
-      "img": "system/ui/gifts/Celestial_Crescent.webp",
+      "card": "system/ui/gifts/Celestial_Crescent_back.webp",
+      "sticker": "system/ui/gifts/Celestial_Crescent.webp",
       "precio": 150,
       "moneda": "diamond_blue",
       "fame_points": 4
