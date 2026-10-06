@@ -25,8 +25,8 @@
     {
       "id": "cosmic_axolotl",
       "nombre": "Cosmic Axolotl",
-      "card": "system/ui/gifts/Cosmic_Axolotl_back.web",
-      "sticker": "system/ui/gifts/Cosmic_Axolotl.web",
+      "card": "system/ui/gifts/Cosmic_Axolotl_back.webp",
+      "sticker": "system/ui/gifts/Cosmic_Axolotl.webp",
       "precio": 180,
       "moneda": "diamond_blue",
       "fame_points": 4
