@@ -9,144 +9,144 @@
       "nombre": "Celestial Crescent",
       "card": "system/ui/gifts/Celestial_Crescent_back.webp",
       "sticker": "system/ui/gifts/Celestial_Crescent.webp",
-      "precio": 150,
+      "precio": 5,
       "moneda": "diamond_blue",
-      "fame_points": 4
+      "fame_points": 1
     },
     {
       "id": "cool_canine",
       "nombre": "Cool Canine",
       "card": "system/ui/gifts/Cool_Canine_back.webp",
       "sticker": "system/ui/gifts/Cool_Canine.webp",
-      "precio": 120,
+      "precio": 5,
       "moneda": "diamond_blue",
-      "fame_points": 3
+      "fame_points": 1
     },
     {
       "id": "cosmic_axolotl",
       "nombre": "Cosmic Axolotl",
       "card": "system/ui/gifts/Cosmic_Axolotl_back.webp",
       "sticker": "system/ui/gifts/Cosmic_Axolotl.webp",
-      "precio": 180,
+      "precio": 5,
       "moneda": "diamond_blue",
-      "fame_points": 4
+      "fame_points": 1
     },
     {
       "id": "crystal_perfume",
       "nombre": "Crystal Perfume",
       "card": "system/ui/gifts/Crystal_Perfume_back.webp",
       "sticker": "system/ui/gifts/Crystal_Perfume.webp",
-      "precio": 100,
+      "precio": 5,
       "moneda": "diamond_blue",
-      "fame_points": 3
+      "fame_points": 1
     },
     {
       "id": "cute_cloud_and_rainbow",
       "nombre": "Cute Cloud and Rainbow",
       "card": "system/ui/gifts/Cute_Cloud_and_Rainbow_back.webp",
       "sticker": "system/ui/gifts/Cute_Cloud_and_Rainbow.webp",
-      "precio": 110,
+      "precio": 30,
       "moneda": "diamond_blue",
-      "fame_points": 3
+      "fame_points": 6
     },
     {
       "id": "french_delights",
       "nombre": "French Delights",
       "card": "system/ui/gifts/French_Delights_back.webp",
       "sticker": "system/ui/gifts/French_Delights.webp",
-      "precio": 90,
+      "precio": 30,
       "moneda": "diamond_blue",
-      "fame_points": 3
+      "fame_points": 6
     },
     {
       "id": "glimmering_cherries",
       "nombre": "Glimmering Cherries",
       "card": "system/ui/gifts/Glimmering_Cherries_back.webp",
       "sticker": "system/ui/gifts/Glimmering_Cherries.webp",
-      "precio": 80,
+      "precio": 30,
       "moneda": "diamond_blue",
-      "fame_points": 2
+      "fame_points": 6
     },
     {
       "id": "high_fashion_bag",
       "nombre": "High Fashion Bag",
       "card": "system/ui/gifts/High_Fashion_Bag_back.webp",
       "sticker": "system/ui/gifts/High_Fashion_Bag.webp",
-      "precio": 200,
+      "precio": 30,
       "moneda": "diamond_blue",
-      "fame_points": 4
+      "fame_points": 6
     },
     {
       "id": "iconic_kiss",
       "nombre": "Iconic Kiss",
       "card":"system/ui/gifts/Iconic_Kiss_back.webp",
       "sticker": "system/ui/gifts/Iconic_Kiss.webp",
-      "precio": 130,
+      "precio": 50,
       "moneda": "diamond_blue",
-      "fame_points": 4
+      "fame_points": 10
     },
     {
       "id": "plushie_rabbit",
       "nombre": "Plushie Rabbit",
       "card":"system/ui/gifts/Plushie_Rabbit_back.webp",
       "sticker": "system/ui/gifts/Plushie_Rabbit.webp",
-      "precio": 140,
+      "precio": 50,
       "moneda": "diamond_blue",
-      "fame_points": 4
+      "fame_points": 10
     },
     {
       "id": "prism_heart",
       "nombre": "Prism Heart",
       "card":"system/ui/gifts/Prism_Heart_back.webp",
       "sticker": "system/ui/gifts/Prism_Heart.webp",
-      "precio": 160,
+      "precio": 100,
       "moneda": "diamond_blue",
-      "fame_points": 4
+      "fame_points": 20
     },
     {
       "id": "rainbow_slice",
       "nombre": "Rainbow Slice",
        "card": "system/ui/gifts/Rainbow_Slice_back.webp",
       "sticker": "system/ui/gifts/Rainbow_Slice.webp",
-      "precio": 70,
+      "precio": 100,
       "moneda": "diamond_blue",
-      "fame_points": 2
+      "fame_points": 20
     },
     {
       "id": "sparkling_boba",
       "nombre": "Sparkling Boba",
       "card": "system/ui/gifts/Sparkling_Boba_back.webp",
       "sticker": "system/ui/gifts/Sparkling_Boba.webp",
-      "precio": 85,
+      "precio": 200,
       "moneda": "diamond_blue",
-      "fame_points": 3
+      "fame_points": 40
     },
     {
       "id": "starlight_sparkle",
       "nombre": "Starlight Sparkle",
       "card": "system/ui/gifts/Starlight_Sparkle_back.webp",
       "sticker": "system/ui/gifts/Starlight_Sparkle.webp",
-      "precio": 170,
+      "precio": 200,
       "moneda": "diamond_blue",
-      "fame_points": 4
+      "fame_points": 40
     },
     {
       "id": "teacup_kitten",
       "nombre": "Teacup Kitten",
       "card": "system/ui/gifts/Teacup_Kitten_back.webp",
       "sticker": "system/ui/gifts/Teacup_Kitten.webp",
-      "precio": 150,
+      "precio": 400,
       "moneda": "diamond_blue",
-      "fame_points": 4
+      "fame_points": 80
     },
     {
       "id": "vanity_reflection",
       "nombre": "Vanity Reflection",
      "card": "system/ui/gifts/Vanity_Reflection_back.webp",
       "sticker": "system/ui/gifts/Vanity_Reflection.webp",
-      "precio": 190,
+      "precio": 400,
       "moneda": "diamond_blue",
-      "fame_points": 4
+      "fame_points": 80
     }
   ]
 }
