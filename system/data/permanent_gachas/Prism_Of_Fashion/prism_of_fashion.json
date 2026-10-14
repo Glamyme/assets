@@ -3,8 +3,8 @@
     "id": "gacha_Prism_of_Fashion",
     "name": "Prism of Fashion",
     "description": "¡Un estilo para cada ocasión! Descubre prendas únicas desde looks veraniegos hasta vestidos de gala. ¿Cuál será tu outfit de hoy?",
-    "price_per_pull": { "amount": 150, "currency": "diamond_black" },
-    "price_per_ten": { "amount": 1500, "currency": "diamond_black" }
+    "price_per_pull": { "amount": 150, "currency": "diamond_blue" },
+    "price_per_ten": { "amount": 1500, "currency": "diamond_blue" }
   },
   "sets_gacha": [
     {
@@ -95,7 +95,7 @@
         {
           "id": "pinksp_socks_01",
           "name": "Varsity Socks",
-          "cat": "accessory",
+          "cat": "socks",
           "anchor": {"x": 474, "y": 1402, "w": 514, "h": 519},
           "estrellas": 5,
           "probability": 1.5,
