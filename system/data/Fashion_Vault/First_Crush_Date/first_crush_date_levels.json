@@ -1,0 +1,29 @@
+{
+  "id": "first_crush_date",
+  "nombre": "First Crush Date",
+  "total_niveles": 100,
+  "columnas": [
+    { "id": "basic",     "nombre": "Basic Vault",     "requiere_pago": false },
+    { "id": "exclusive", "nombre": "Exclusive Vault", "requiere_pago": true }
+  ],
+  "niveles": [
+    { "nivel": 1,
+      "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 10 },
+      "exclusive": [ { "tipo": "item", "item_id": "fcd_hair_1" } ] },
+
+    { "nivel": 2,
+      "basic": { "tipo": "moneda", "moneda": "coin_gm", "cantidad": 50 },
+      "exclusive": [
+        { "tipo": "item", "item_id": "fcd_dress_1" },
+        { "tipo": "item", "item_id": "fcd_pantyhouse_1" }
+      ] },
+
+    { "nivel": 3,
+      "basic": null,
+      "exclusive": [] },
+
+    { "nivel": 100,
+      "basic": null,
+      "exclusive": [ { "tipo": "item", "item_id": "fcd_sweater_1" } ] }
+  ]
+}
