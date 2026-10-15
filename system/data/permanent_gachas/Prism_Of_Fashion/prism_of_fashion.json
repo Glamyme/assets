@@ -79,7 +79,7 @@
           "name": "Pleated Skirt",
           "cat": "bottom",
           "anchor": {"x": 350, "y": 788, "w": 421, "h": 345},
-          "estrellas": 5,
+          "estrellas": 3,
           "probability": 1.0,
           "img": "system/permanent_gachas/Prism_Of_Fashion/Cheerleader_look_number_4/skirt.webp"
         },
@@ -88,7 +88,7 @@
           "name": "Chunky Sneakers",
           "cat": "shoes",
           "anchor": { "x": 479, "y": 1713, "w": 534, "h": 227},
-          "estrellas": 5,
+          "estrellas": 3,
           "probability": 1.0,
           "img": "system/permanent_gachas/Prism_Of_Fashion/Cheerleader_look_number_4/sneackers.webp"
         },
@@ -97,7 +97,7 @@
           "name": "Varsity Socks",
           "cat": "socks",
           "anchor": {"x": 474, "y": 1402, "w": 514, "h": 519},
-          "estrellas": 5,
+          "estrellas": 3,
           "probability": 1.5,
           "img": "system/permanent_gachas/Prism_Of_Fashion/Cheerleader_look_number_4/socks.webp"
           },
@@ -106,7 +106,7 @@
           "name": "Crop Top spirit",
           "cat": "top",
           "anchor": {"x": 450, "y": 450, "w": 269, "h": 286},
-          "estrellas": 5,
+          "estrellas": 3,
           "probability": 1.0,
           "img": "system/permanent_gachas/Prism_Of_Fashion/Cheerleader_look_number_4/top.webp"
         }
