@@ -88,7 +88,7 @@
       
     { "nivel": 85,
       "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 5 } ,
-      "exclusive": [] }
+      "exclusive": [] },
 
     { "nivel": 90,
       "basic": { "tipo": "moneda", "moneda": "coin_gm", "cantidad": 100 } ,
