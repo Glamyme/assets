@@ -52,55 +52,55 @@
     
     { "nivel": 40,
       "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 10 } ,
-      "exclusive": [] }
+      "exclusive": [] },
     
     { "nivel": 45,
       "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 5 } ,
-      "exclusive": [] }
+      "exclusive": [] },
 
      { "nivel": 50,
       "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 10 } ,
-      "exclusive": [] }
+      "exclusive": [] },
     
      { "nivel": 55,
       "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 5 } ,
-      "exclusive": [] }
+      "exclusive": [] },
     
     { "nivel": 60,
       "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 10 } ,
-      "exclusive": [] 
+      "exclusive": [] },
 
     { "nivel": 65,
       "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 5 } ,
-      "exclusive": [] 
+      "exclusive": [] },
 
     { "nivel": 70,
       "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 10 } ,
-      "exclusive": []  
+      "exclusive": [] },
 
     { "nivel": 75,
       "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 5 } ,
-      "exclusive": []  
+      "exclusive": [] },
       
     { "nivel": 80,
       "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 10 } ,
-      "exclusive": []  
+      "exclusive": [] },
       
     { "nivel": 85,
       "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 5 } ,
-      "exclusive": [] 
+      "exclusive": [] },
       
     { "nivel": 85,
       "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 10 } ,
-      "exclusive": []   
+      "exclusive": [] },  
 
     { "nivel": 90,
       "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 5 } ,
-      "exclusive": []   
+      "exclusive": [] },  
 
      { "nivel": 95,
       "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 10 } ,
-      "exclusive": []     
+      "exclusive": [] },    
       
     { "nivel": 100,
       "basic": null,
