@@ -8,7 +8,7 @@
   ],
   "niveles": [
     { "nivel": 1,
-      "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 10 },
+      "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 5 },
       "exclusive": [ { "tipo": "item", "item_id": "fcd_hair_1" } ] },
 
     { "nivel": 2,
@@ -17,9 +17,13 @@
         { "tipo": "item", "item_id": "fcd_dress_1" },
         { "tipo": "item", "item_id": "fcd_pantyhouse_1" }
       ] },
-
+    
     { "nivel": 3,
       "basic": null,
+      "exclusive": [] },
+    
+     { "nivel": 5,
+      "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 10 ,
       "exclusive": [] },
 
     { "nivel": 100,
