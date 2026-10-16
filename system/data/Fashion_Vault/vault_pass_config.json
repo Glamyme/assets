@@ -1,0 +1,9 @@
+{
+  "xp_por_nivel": 15,
+  "nivel_max": 100,
+  "hitos_dp_diarios": [
+    { "dp": 25, "xp": 12 },
+    { "dp": 40, "xp": 12 },
+    { "dp": 60, "xp": 12 }
+  ]
+}
