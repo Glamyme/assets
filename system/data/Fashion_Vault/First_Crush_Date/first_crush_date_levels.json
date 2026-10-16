@@ -23,9 +23,49 @@
       "exclusive": [] },
     
      { "nivel": 5,
+      "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 5 } ,
+      "exclusive": [] },
+    
+     { "nivel": 10,
       "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 10 } ,
       "exclusive": [] },
+    
+    { "nivel": 15,
+      "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 5 } ,
+      "exclusive": [] },
+    
+    { "nivel": 20,
+      "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 10 } ,
+      "exclusive": [] },
+    
+    { "nivel": 25,
+      "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 5 } ,
+      "exclusive": [] },
+    
+    { "nivel": 30,
+      "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 10 } ,
+      "exclusive": [] }, 
+    
+    { "nivel": 35,
+      "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 5 } ,
+      "exclusive": [] }, 
+    
+    { "nivel": 40,
+      "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 10 } ,
+      "exclusive": [] }
+    
+    { "nivel": 45,
+      "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 5 } ,
+      "exclusive": [] }
 
+     { "nivel": 50,
+      "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 10 } ,
+      "exclusive": [] }
+    
+     { "nivel": 55,
+      "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 5 } ,
+      "exclusive": [] }
+    
     { "nivel": 100,
       "basic": null,
       "exclusive": [ { "tipo": "item", "item_id": "fcd_sweater_1" } ] }
