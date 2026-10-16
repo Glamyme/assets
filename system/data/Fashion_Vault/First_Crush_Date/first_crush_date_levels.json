@@ -91,15 +91,15 @@
       "exclusive": [] }
 
     { "nivel": 90,
-      "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 10 } ,
+      "basic": { "tipo": "moneda", "moneda": "coin_gm", "cantidad": 100 } ,
       "exclusive": [] },  
 
      { "nivel": 95,
-      "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 5 } ,
+      "basic": { "tipo": "moneda", "moneda": "coin_gm", "cantidad": 50 } ,
       "exclusive": [] },    
       
     { "nivel": 100,
-      "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 10 },
+      "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 25 },
       "exclusive": [ { "tipo": "item", "item_id": "fcd_sweater_1" } ] }
   ]
 }
