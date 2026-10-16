@@ -23,7 +23,7 @@
       "exclusive": [] },
     
      { "nivel": 5,
-      "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 10 ,
+      "basic": { "tipo": "moneda", "moneda": "diamond_blue", "cantidad": 10 } ,
       "exclusive": [] },
 
     { "nivel": 100,
