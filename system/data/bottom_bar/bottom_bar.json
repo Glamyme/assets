@@ -2,18 +2,11 @@
   "bottom_bar": {
     "buttons": [
       {
-        "id": "competition",
-        "label": "COMPETICIÓN",
-        "image": "system/ui/bottom_bar/btn_competition.webp",
+        "id": "job",
+        "label": "TRABAJO",
+        "image": "system/ui/bottom_bar/btn_job.webp",
         "action": "section",
-        "target": "competition"
-      },
-      {
-        "id": "desing",
-        "label": "DISEÑO",
-        "image": "system/ui/bottom_bar/btn_desing.webp",
-        "action": "section",
-        "target": "desing"
+        "target": "job"
       },
       {
         "id": "feed",
@@ -23,18 +16,25 @@
         "target": "feed"
       },
       {
+        "id": "desing",
+        "label": "DISEÑO",
+        "image": "system/ui/bottom_bar/btn_desing.webp",
+        "action": "section",
+        "target": "desing"
+      },
+      {
+        "id": "competition",
+        "label": "COMPETICIÓN",
+        "image": "system/ui/bottom_bar/btn_competition.webp",
+        "action": "section",
+        "target": "competition"
+      },
+      {
         "id": "group",
         "label": "GRUPO",
         "image": "system/ui/bottom_bar/btn_group.webp",
         "action": "section",
         "target": "group"
-      },
-      {
-        "id": "job",
-        "label": "TRABAJO",
-        "image": "system/ui/bottom_bar/btn_job.webp",
-        "action": "section",
-        "target": "job"
       }
     ]
   }
