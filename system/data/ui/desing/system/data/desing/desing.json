@@ -1,0 +1,40 @@
+{
+  "background": "system/ui/desing/backgrounds/background_desing.webp",
+  "base_width": 1024,
+  "base_height": 765,
+  "stations": [
+    {
+      "id": "color",
+      "name": "Mesa de colores",
+      "image": "system/ui/desing/stations/color_station.webp",
+      "z": 1,
+      "hotspot": { "x": 12.2, "y": 42.7, "w": 22.7, "h": 37.5 },
+      "popup": {
+        "title": "Mesa de colores",
+        "text": "Aquí podrás elegir la paleta de colores de tu diseño."
+      }
+    },
+    {
+      "id": "desing",
+      "name": "Máquina de coser",
+      "image": "system/ui/desing/stations/desing_station.webp",
+      "z": 2,
+      "hotspot": { "x": 43.2, "y": 34.0, "w": 50.3, "h": 55.3 },
+      "popup": {
+        "title": "Máquina de coser",
+        "text": "Aquí podrás crear y coser tu prenda."
+      }
+    },
+    {
+      "id": "recicle",
+      "name": "Reciclaje",
+      "image": "system/ui/desing/stations/recicle_station.webp",
+      "z": 3,
+      "hotspot": { "x": 47.9, "y": 30.7, "w": 26.4, "h": 36.3 },
+      "popup": {
+        "title": "Reciclaje",
+        "text": "Aquí podrás reciclar prendas y conseguir materiales."
+      }
+    }
+  ]
+}
