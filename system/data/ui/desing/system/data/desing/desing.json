@@ -7,7 +7,7 @@
       "id": "color",
       "name": "Mesa de colores",
       "image": "system/ui/desing/stations/color_station.webp",
-      "z": 1,
+      "z": 3,
       "hotspot": { "x": 12.2, "y": 42.7, "w": 22.7, "h": 37.5 },
       "popup": {
         "title": "Mesa de colores",
@@ -29,7 +29,7 @@
       "id": "recicle",
       "name": "Reciclaje",
       "image": "system/ui/desing/stations/recicle_station.webp",
-      "z": 3,
+      "z": 1,
       "hotspot": { "x": 47.9, "y": 30.7, "w": 26.4, "h": 36.3 },
       "popup": {
         "title": "Reciclaje",
