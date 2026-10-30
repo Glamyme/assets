@@ -34,10 +34,49 @@
             "anchor": {"x": 399, "y": 140, "w": 357, "h": 551} }
         ]
       },
-      "hitos": [
-        { "puntos": 50,  "tipo": "elegir", "cantidad": 2, "grupo": "look" },
-        { "puntos": 150, "tipo": "elegir", "cantidad": 2, "grupo": "look" },
-        { "puntos": 300, "tipo": "item",   "item_id": "thecocap_coat_01" }
+     "hitos": [
+        {
+          "id": "vip_10",
+          "vip_xp": 10,
+          "recompensas": [
+            { "tipo": "item", "item_id": "thecocap_top_01" }
+          ]
+        },
+        {
+          "id": "vip_30",
+          "vip_xp": 30,
+          "recompensas": [
+            { "tipo": "item", "item_id": "thecocap_boots_01" }
+          ]
+        },
+        {
+          "id": "vip_50",
+          "vip_xp": 50,
+          "recompensas": [
+            { "tipo": "item", "item_id": "thecocap_pants_01" }
+          ]
+        },
+        {
+          "id": "vip_100",
+          "vip_xp": 100,
+          "recompensas": [
+            { "tipo": "item", "item_id": "thecocap_corset_01" }
+          ]
+        },
+        {
+          "id": "vip_150",
+          "vip_xp": 150,
+          "recompensas": [
+            { "tipo": "item", "item_id": "thecocap_coat_01" }
+          ]
+        },
+        {
+          "id": "vip_200",
+          "vip_xp": 200,
+          "recompensas": [
+            { "tipo": "item", "item_id": "thecocap_hair_01" }
+          ]
+        }
       ]
     }
   ]
