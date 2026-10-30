@@ -2,6 +2,7 @@
   "events": [
     {
       "id": "the_Corsairy_Captain_2027",
+      "activo": true,
       "tipo": "top_up_event",
       "nombre": "The Corsairy Captain",
       "condicion": "pago_real",
