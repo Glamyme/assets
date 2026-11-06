@@ -1,11 +1,263 @@
 {
   "competitions": [
     {
-      "id": "gala_001",
+      "id": "comp_2026_11_06_am",
       "status": "active",
       "theme": "Noche de gala",
+      "description": "Demuestra tu elegancia con un look de alfombra roja.",
+      "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
+      "stage": "system/ui/competitions/stages/cv.jpg",
+      "start_at": "2026-11-06T00:00:00",
+      "entry_deadline": "2026-11-06T14:00:00",
+      "voting_deadline": "2026-11-07T00:00:00",
+      "rules": {
+        "min_level": 1,
+        "required_categories": ["dress"],
+        "min_items": 4,
+        "max_items": 12,
+        "banned_categories": ["wings", "swimsuit"]
+      }
+    },
+    {
+      "id": "comp_2026_11_06_pm",
+      "status": "active",
+      "theme": "Street style",
+      "description": "Combinaciones urbanas con actitud y comodidad.",
+      "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
+      "stage": "system/ui/competitions/stages/cv.jpg",
+      "start_at": "2026-11-06T12:00:00",
+      "entry_deadline": "2026-11-07T02:00:00",
+      "voting_deadline": "2026-11-07T12:00:00",
+      "rules": {
+        "min_level": 1,
+        "required_categories": ["top", "bottom"],
+        "min_items": 4,
+        "max_items": 10,
+        "banned_categories": ["dress"]
+      }
+    },
+    {
+      "id": "comp_2026_11_07_am",
+      "status": "active",
+      "theme": "Rosa pastel",
+      "description": "Un look dulce y romántico en tonos suaves.",
+      "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
+      "stage": "system/ui/competitions/stages/cv.jpg",
+      "start_at": "2026-11-07T00:00:00",
+      "entry_deadline": "2026-11-07T14:00:00",
+      "voting_deadline": "2026-11-08T00:00:00",
+      "rules": {
+        "min_level": 1,
+        "required_categories": ["dress"],
+        "min_items": 3,
+        "max_items": 10,
+        "banned_categories": ["wings"]
+      }
+    },
+    {
+      "id": "comp_2026_11_07_pm",
+      "status": "active",
+      "theme": "Cyberpunk",
+      "description": "Futurismo, neón y contrastes atrevidos.",
+      "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
+      "stage": "system/ui/competitions/stages/cv.jpg",
+      "start_at": "2026-11-07T12:00:00",
+      "entry_deadline": "2026-11-08T02:00:00",
+      "voting_deadline": "2026-11-08T12:00:00",
+      "rules": {
+        "min_level": 1,
+        "required_categories": ["top", "bottom"],
+        "min_items": 4,
+        "max_items": 12,
+        "banned_categories": ["dress"]
+      }
+    },
+    {
+      "id": "comp_2026_11_08_am",
+      "status": "active",
+      "theme": "Cuento de hadas",
+      "description": "Encanto, fantasía y detalles de princesa.",
+      "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
+      "stage": "system/ui/competitions/stages/cv.jpg",
+      "start_at": "2026-11-08T00:00:00",
+      "entry_deadline": "2026-11-08T14:00:00",
+      "voting_deadline": "2026-11-09T00:00:00",
+      "rules": {
+        "min_level": 1,
+        "required_categories": ["dress"],
+        "min_items": 4,
+        "max_items": 12,
+        "banned_categories": ["swimsuit"]
+      }
+    },
+    {
+      "id": "comp_2026_11_08_pm",
+      "status": "active",
+      "theme": "Y2K",
+      "description": "Regresa a los 2000 con brillo y mucho color.",
+      "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
+      "stage": "system/ui/competitions/stages/cv.jpg",
+      "start_at": "2026-11-08T12:00:00",
+      "entry_deadline": "2026-11-09T02:00:00",
+      "voting_deadline": "2026-11-09T12:00:00",
+      "rules": {
+        "min_level": 1,
+        "required_categories": ["top", "bottom", "shoes"],
+        "min_items": 4,
+        "max_items": 12,
+        "banned_categories": []
+      }
+    },
+    {
+      "id": "comp_2026_11_09_am",
+      "status": "active",
+      "theme": "Elegance noir",
+      "description": "Elegancia oscura con detalles sofisticados.",
+      "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
+      "stage": "system/ui/competitions/stages/cv.jpg",
+      "start_at": "2026-11-09T00:00:00",
+      "entry_deadline": "2026-11-09T14:00:00",
+      "voting_deadline": "2026-11-10T00:00:00",
+      "rules": {
+        "min_level": 1,
+        "required_categories": ["dress"],
+        "min_items": 4,
+        "max_items": 12,
+        "banned_categories": ["wings", "swimsuit"]
+      }
+    },
+    {
+      "id": "comp_2026_11_09_pm",
+      "status": "active",
+      "theme": "Playa tropical",
+      "description": "Looks frescos inspirados en el verano.",
+      "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
+      "stage": "system/ui/competitions/stages/cv.jpg",
+      "start_at": "2026-11-09T12:00:00",
+      "entry_deadline": "2026-11-10T02:00:00",
+      "voting_deadline": "2026-11-10T12:00:00",
+      "rules": {
+        "min_level": 1,
+        "required_categories": ["swimsuit"],
+        "min_items": 3,
+        "max_items": 8,
+        "banned_categories": []
+      }
+    },
+    {
+      "id": "comp_2026_11_10_am",
+      "status": "active",
+      "theme": "Anime pop",
+      "description": "Inspiración anime con colores vivos y accesorios.",
+      "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
+      "stage": "system/ui/competitions/stages/cv.jpg",
+      "start_at": "2026-11-10T00:00:00",
+      "entry_deadline": "2026-11-10T14:00:00",
+      "voting_deadline": "2026-11-11T00:00:00",
+      "rules": {
+        "min_level": 1,
+        "required_categories": ["top", "bottom"],
+        "min_items": 4,
+        "max_items": 12,
+        "banned_categories": ["dress"]
+      }
+    },
+    {
+      "id": "comp_2026_11_10_pm",
+      "status": "active",
+      "theme": "Vintage glam",
+      "description": "Un homenaje al glamour clásico de otra época.",
+      "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
+      "stage": "system/ui/competitions/stages/cv.jpg",
+      "start_at": "2026-11-10T12:00:00",
+      "entry_deadline": "2026-11-11T02:00:00",
+      "voting_deadline": "2026-11-11T12:00:00",
+      "rules": {
+        "min_level": 1,
+        "required_categories": ["dress"],
+        "min_items": 4,
+        "max_items": 12,
+        "banned_categories": ["swimsuit"]
+      }
+    },
+    {
+      "id": "comp_2026_11_11_am",
+      "status": "active",
+      "theme": "Gótico elegante",
+      "description": "Oscuro, dramático y con mucho estilo.",
+      "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
+      "stage": "system/ui/competitions/stages/cv.jpg",
+      "start_at": "2026-11-11T00:00:00",
+      "entry_deadline": "2026-11-11T14:00:00",
+      "voting_deadline": "2026-11-12T00:00:00",
+      "rules": {
+        "min_level": 1,
+        "required_categories": ["dress"],
+        "min_items": 4,
+        "max_items": 12,
+        "banned_categories": ["wings"]
+      }
+    },
+    {
+      "id": "comp_2026_11_11_pm",
+      "status": "active",
+      "theme": "Festival de luces",
+      "description": "Brilla con un look lleno de accesorios y color.",
+      "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
+      "stage": "system/ui/competitions/stages/cv.jpg",
+      "start_at": "2026-11-11T12:00:00",
+      "entry_deadline": "2026-11-12T02:00:00",
+      "voting_deadline": "2026-11-12T12:00:00",
+      "rules": {
+        "min_level": 1,
+        "required_categories": ["top", "bottom", "accessory"],
+        "min_items": 4,
+        "max_items": 12,
+        "banned_categories": []
+      }
+    },
+    {
+      "id": "comp_2026_11_12_am",
+      "status": "active",
+      "theme": "Office chic",
+      "description": "Profesional, moderno y bien coordinado.",
+      "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
+      "stage": "system/ui/competitions/stages/cv.jpg",
+      "start_at": "2026-11-12T00:00:00",
+      "entry_deadline": "2026-11-12T14:00:00",
+      "voting_deadline": "2026-11-13T00:00:00",
+      "rules": {
+        "min_level": 1,
+        "required_categories": ["top", "bottom", "shoes"],
+        "min_items": 4,
+        "max_items": 12,
+        "banned_categories": ["swimsuit"]
+      }
+    },
+    {
+      "id": "comp_2026_11_12_pm",
+      "status": "active",
+      "theme": "Reina del hielo",
+      "description": "Frío, brillante y majestuoso como el invierno.",
+      "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
+      "stage": "system/ui/competitions/stages/cv.jpg",
+      "start_at": "2026-11-12T12:00:00",
+      "entry_deadline": "2026-11-13T02:00:00",
+      "voting_deadline": "2026-11-13T12:00:00",
+      "rules": {
+        "min_level": 1,
+        "required_categories": ["dress"],
+        "min_items": 4,
+        "max_items": 12,
+        "banned_categories": ["swimsuit"]
+      }
+    },    
+    {
+      "id": "gala_001",
+      "status": "finished",
+      "theme": "Noche de gala",
       "description": "Demuestra tu elegancia con un look de alfombra roja. Sorprende al jurado con un outfit elegante y bien combinado.",
-      "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpgp",
+      "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
       "stage": "system/ui/competitions/stages/cv.jpg",
       "start_at": "2026-10-26T00:00:00",
       "entry_deadline": "2026-10-26T18:00:00",
