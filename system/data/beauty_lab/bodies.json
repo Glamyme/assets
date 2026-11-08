@@ -30,7 +30,7 @@
     "color": "#997667"
   },
   {
-    "id": "Man_light_pale_tone_01.webp",
+    "id": "Man_light_pale_tone_01",
     "nombre": "Man_Light Pale Tone 1",
     "imagen_base": "system/bodies/male_bodies/body_male_skin_light_pale.webp",
     "gender":"man",
