@@ -138,7 +138,7 @@
       "voting_deadline": "2026-11-10T12:00:00",
       "rules": {
         "min_level": 1,
-        "required_categories": ["swimsuit"],
+        "required_categories": ["top","bottom"],
         "min_items": 3,
         "max_items": 8,
         "banned_categories": []
