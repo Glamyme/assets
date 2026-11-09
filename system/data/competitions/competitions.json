@@ -120,7 +120,7 @@
       "voting_deadline": "2026-11-10T00:00:00",
       "rules": {
         "min_level": 1,
-        "required_categories": ["dress"],
+        "required_categories": ["top","bottom"],
         "min_items": 4,
         "max_items": 12,
         "banned_categories": ["wings", "swimsuit"]
