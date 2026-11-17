@@ -1,15 +1,15 @@
 {
   "competitions": [
     {
-      "id": "comp_2026_11_06_am",
+      "id": "comp_2026_11_17_am",
       "status": "active",
       "theme": "Noche de gala",
       "description": "Demuestra tu elegancia con un look de alfombra roja.",
       "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
       "stage": "system/ui/competitions/stages/cv.jpg",
-      "start_at": "2026-11-06T00:00:00",
-      "entry_deadline": "2026-11-06T14:00:00",
-      "voting_deadline": "2026-11-07T00:00:00",
+      "start_at": "2026-11-17T00:00:00",
+      "entry_deadline": "2026-11-18T00:00:00",
+      "voting_deadline": "2026-11-19T00:00:00",
       "rules": {
         "min_level": 1,
         "required_categories": ["dress"],
@@ -19,15 +19,15 @@
       }
     },
     {
-      "id": "comp_2026_11_06_pm",
+      "id": "comp_2026_11_17_pm",
       "status": "active",
       "theme": "Street style",
       "description": "Combinaciones urbanas con actitud y comodidad.",
       "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
       "stage": "system/ui/competitions/stages/cv.jpg",
-      "start_at": "2026-11-06T12:00:00",
-      "entry_deadline": "2026-11-07T02:00:00",
-      "voting_deadline": "2026-11-07T12:00:00",
+      "start_at": "2026-11-17T00:00:00",
+      "entry_deadline": "2026-11-18T00:00:00",
+      "voting_deadline": "2026-11-19T00:00:00",
       "rules": {
         "min_level": 1,
         "required_categories": ["top", "bottom"],
@@ -37,15 +37,15 @@
       }
     },
     {
-      "id": "comp_2026_11_07_am",
+      "id": "comp_2026_11_18_am",
       "status": "active",
       "theme": "Rosa pastel",
       "description": "Un look dulce y romántico en tonos suaves.",
       "cover": "system/ui/backgrounds/Magical_pink_room.webp",
       "stage": "system/ui/backgrounds/Magical_pink_room.webp",
-      "start_at": "2026-11-07T00:00:00",
-      "entry_deadline": "2026-11-07T14:00:00",
-      "voting_deadline": "2026-11-08T00:00:00",
+      "start_at": "2026-11-18T00:00:00",
+      "entry_deadline": "2026-11-19T00:00:00",
+      "voting_deadline": "2026-11-20T00:00:00",
       "rules": {
         "min_level": 1,
         "required_categories": ["dress"],
@@ -55,15 +55,15 @@
       }
     },
     {
-      "id": "comp_2026_11_07_pm",
+      "id": "comp_2026_11_18_pm",
       "status": "active",
       "theme": "Cyberpunk",
       "description": "Futurismo, neón y contrastes atrevidos.",
       "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
       "stage": "system/ui/competitions/stages/cv.jpg",
-      "start_at": "2026-11-07T12:00:00",
-      "entry_deadline": "2026-11-08T02:00:00",
-      "voting_deadline": "2026-11-08T12:00:00",
+      "start_at": "2026-11-07T00:00:00",
+      "entry_deadline": "2026-11-19T00:00:00",
+      "voting_deadline": "2026-11-20T00:00:00",
       "rules": {
         "min_level": 1,
         "required_categories": ["top", "bottom"],
@@ -73,15 +73,15 @@
       }
     },
     {
-      "id": "comp_2026_11_08_am",
+      "id": "comp_2026_11_19_am",
       "status": "active",
       "theme": "Cuento de hadas",
       "description": "Encanto, fantasía y detalles de princesa.",
       "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
       "stage": "system/ui/competitions/stages/cv.jpg",
-      "start_at": "2026-11-08T00:00:00",
-      "entry_deadline": "2026-11-08T14:00:00",
-      "voting_deadline": "2026-11-09T00:00:00",
+      "start_at": "2026-11-19T00:00:00",
+      "entry_deadline": "2026-11-20T00:00:00",
+      "voting_deadline": "2026-11-21T00:00:00",
       "rules": {
         "min_level": 1,
         "required_categories": ["dress"],
@@ -91,15 +91,15 @@
       }
     },
     {
-      "id": "comp_2026_11_08_pm",
+      "id": "comp_2026_11_19_pm",
       "status": "active",
       "theme": "Y2K",
       "description": "Regresa a los 2000 con brillo y mucho color.",
       "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
       "stage": "system/ui/competitions/stages/cv.jpg",
-      "start_at": "2026-11-08T12:00:00",
-      "entry_deadline": "2026-11-09T02:00:00",
-      "voting_deadline": "2026-11-09T12:00:00",
+      "start_at": "2026-11-19T00:00:00",
+      "entry_deadline": "2026-11-20T00:00:00",
+      "voting_deadline": "2026-11-21T00:00:00",
       "rules": {
         "min_level": 1,
         "required_categories": ["top", "bottom", "shoes"],
@@ -109,15 +109,15 @@
       }
     },
     {
-      "id": "comp_2026_11_09_am",
+      "id": "comp_2026_11_20_am",
       "status": "active",
       "theme": "Elegance noir",
       "description": "Elegancia oscura con detalles sofisticados.",
       "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
       "stage": "system/ui/competitions/stages/cv.jpg",
-      "start_at": "2026-11-09T00:00:00",
-      "entry_deadline": "2026-11-09T14:00:00",
-      "voting_deadline": "2026-11-10T00:00:00",
+      "start_at": "2026-11-20T00:00:00",
+      "entry_deadline": "2026-11-21T00:00:00",
+      "voting_deadline": "2026-11-22T00:00:00",
       "rules": {
         "min_level": 1,
         "required_categories": ["top","bottom"],
@@ -127,15 +127,15 @@
       }
     },
     {
-      "id": "comp_2026_11_09_pm",
+      "id": "comp_2026_11_20_pm",
       "status": "active",
       "theme": "Playa tropical",
       "description": "Looks frescos inspirados en el verano.",
       "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
       "stage": "system/ui/competitions/stages/cv.jpg",
-      "start_at": "2026-11-09T12:00:00",
-      "entry_deadline": "2026-11-10T02:00:00",
-      "voting_deadline": "2026-11-10T12:00:00",
+      "start_at": "2026-11-21T00:00:00",
+      "entry_deadline": "2026-11-22T00:00:00",
+      "voting_deadline": "2026-11-23T00:00:00",
       "rules": {
         "min_level": 1,
         "required_categories": ["top","bottom"],
@@ -145,15 +145,15 @@
       }
     },
     {
-      "id": "comp_2026_11_10_am",
+      "id": "comp_2026_11_21_am",
       "status": "active",
       "theme": "Anime pop",
       "description": "Inspiración anime con colores vivos y accesorios.",
       "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
       "stage": "system/ui/competitions/stages/cv.jpg",
-      "start_at": "2026-11-10T00:00:00",
-      "entry_deadline": "2026-11-10T14:00:00",
-      "voting_deadline": "2026-11-11T00:00:00",
+      "start_at": "2026-11-21T00:00:00",
+      "entry_deadline": "2026-11-22T00:00:00",
+      "voting_deadline": "2026-11-23T00:00:00",
       "rules": {
         "min_level": 1,
         "required_categories": ["top", "bottom"],
@@ -163,15 +163,15 @@
       }
     },
     {
-      "id": "comp_2026_11_10_pm",
+      "id": "comp_2026_11_21_pm",
       "status": "active",
       "theme": "Vintage glam",
       "description": "Un homenaje al glamour clásico de otra época.",
       "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
       "stage": "system/ui/competitions/stages/cv.jpg",
-      "start_at": "2026-11-10T12:00:00",
-      "entry_deadline": "2026-11-11T02:00:00",
-      "voting_deadline": "2026-11-11T12:00:00",
+      "start_at": "2026-11-21T00:00:00",
+      "entry_deadline": "2026-11-22T00:00:00",
+      "voting_deadline": "2026-11-23T12:00:00",
       "rules": {
         "min_level": 1,
         "required_categories": ["dress"],
@@ -181,15 +181,15 @@
       }
     },
     {
-      "id": "comp_2026_11_11_am",
+      "id": "comp_2026_11_22_am",
       "status": "active",
       "theme": "Gótico elegante",
       "description": "Oscuro, dramático y con mucho estilo.",
       "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
       "stage": "system/ui/competitions/stages/cv.jpg",
-      "start_at": "2026-11-11T00:00:00",
-      "entry_deadline": "2026-11-11T14:00:00",
-      "voting_deadline": "2026-11-12T00:00:00",
+      "start_at": "2026-11-22T00:00:00",
+      "entry_deadline": "2026-11-23T00:00:00",
+      "voting_deadline": "2026-11-24T00:00:00",
       "rules": {
         "min_level": 1,
         "required_categories": ["dress"],
@@ -199,15 +199,15 @@
       }
     },
     {
-      "id": "comp_2026_11_11_pm",
+      "id": "comp_2026_11_22_pm",
       "status": "active",
       "theme": "Festival de luces",
       "description": "Brilla con un look lleno de accesorios y color.",
       "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
       "stage": "system/ui/competitions/stages/cv.jpg",
-      "start_at": "2026-11-11T12:00:00",
-      "entry_deadline": "2026-11-12T02:00:00",
-      "voting_deadline": "2026-11-12T12:00:00",
+      "start_at": "2026-11-11T22:00:00",
+      "entry_deadline": "2026-11-23T00:00:00",
+      "voting_deadline": "2026-11-24T00:00:00",
       "rules": {
         "min_level": 1,
         "required_categories": ["top", "bottom", "accessory"],
@@ -217,15 +217,15 @@
       }
     },
     {
-      "id": "comp_2026_11_12_am",
+      "id": "comp_2026_11_23_am",
       "status": "active",
       "theme": "Office chic",
       "description": "Profesional, moderno y bien coordinado.",
       "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
       "stage": "system/ui/competitions/stages/cv.jpg",
-      "start_at": "2026-11-12T00:00:00",
-      "entry_deadline": "2026-11-12T14:00:00",
-      "voting_deadline": "2026-11-13T00:00:00",
+      "start_at": "2026-11-23T00:00:00",
+      "entry_deadline": "2026-11-24T14:00:00",
+      "voting_deadline": "2026-11-25T00:00:00",
       "rules": {
         "min_level": 1,
         "required_categories": ["top", "bottom", "shoes"],
@@ -235,15 +235,15 @@
       }
     },
     {
-      "id": "comp_2026_11_12_pm",
+      "id": "comp_2026_11_23_pm",
       "status": "active",
       "theme": "Reina del hielo",
       "description": "Frío, brillante y majestuoso como el invierno.",
       "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
       "stage": "system/ui/competitions/stages/cv.jpg",
-      "start_at": "2026-11-12T12:00:00",
-      "entry_deadline": "2026-11-13T02:00:00",
-      "voting_deadline": "2026-11-13T12:00:00",
+      "start_at": "2026-11-23T00:00:00",
+      "entry_deadline": "2026-11-24T00:00:00",
+      "voting_deadline": "2026-11-25T00:00:00",
       "rules": {
         "min_level": 1,
         "required_categories": ["dress"],
