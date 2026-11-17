@@ -61,7 +61,7 @@
       "description": "Futurismo, neón y contrastes atrevidos.",
       "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
       "stage": "system/ui/competitions/stages/cv.jpg",
-      "start_at": "2026-11-07T00:00:00",
+      "start_at": "2026-11-18T00:00:00",
       "entry_deadline": "2026-11-19T00:00:00",
       "voting_deadline": "2026-11-20T00:00:00",
       "rules": {
@@ -133,7 +133,7 @@
       "description": "Looks frescos inspirados en el verano.",
       "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
       "stage": "system/ui/competitions/stages/cv.jpg",
-      "start_at": "2026-11-21T00:00:00",
+      "start_at": "2026-11-20T00:00:00",
       "entry_deadline": "2026-11-22T00:00:00",
       "voting_deadline": "2026-11-23T00:00:00",
       "rules": {
@@ -171,7 +171,7 @@
       "stage": "system/ui/competitions/stages/cv.jpg",
       "start_at": "2026-11-21T00:00:00",
       "entry_deadline": "2026-11-22T00:00:00",
-      "voting_deadline": "2026-11-23T12:00:00",
+      "voting_deadline": "2026-11-23T00:00:00",
       "rules": {
         "min_level": 1,
         "required_categories": ["dress"],
@@ -205,7 +205,7 @@
       "description": "Brilla con un look lleno de accesorios y color.",
       "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
       "stage": "system/ui/competitions/stages/cv.jpg",
-      "start_at": "2026-11-11T22:00:00",
+      "start_at": "2026-11-22T00:00:00",
       "entry_deadline": "2026-11-23T00:00:00",
       "voting_deadline": "2026-11-24T00:00:00",
       "rules": {
@@ -224,7 +224,7 @@
       "cover": "system/ui/competitions/covers/watermarked_img_4597607472225043280.jpg",
       "stage": "system/ui/competitions/stages/cv.jpg",
       "start_at": "2026-11-23T00:00:00",
-      "entry_deadline": "2026-11-24T14:00:00",
+      "entry_deadline": "2026-11-24T00:00:00",
       "voting_deadline": "2026-11-25T00:00:00",
       "rules": {
         "min_level": 1,
