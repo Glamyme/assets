@@ -76,7 +76,7 @@
       "nombre": "Tony Face",
       "folder": "system/heads/man/Tony_face",
       "precio": { "monto": 3000, "moneda": "diamond_blue" },
-      "anchor": { "x": 498, "y": 177, "w": 181, "h": 242 },
+      "anchor": { "x": 488, "y": 169, "w": 173, "h": 232 },
       "gender":"man",
       "versiones": [
         "system/heads/man/Tony_face/tony_face_tone_1.webp"
