@@ -79,7 +79,7 @@
       "anchor": { "x": 488, "y": 169, "w": 172, "h": 231 },
       "gender":"man",
       "versiones": [
-        "system/heads/man/Tony_face/tony_face_tone_1.webp"
+        "system/heads/man/Tony_face/tony_face_tone_1.webp", "system/heads/man/Tony_face/tony_face_tone_5.webp"
       ]
     }
   ]
