@@ -39,8 +39,10 @@
   },
   {
     "id": "Man_dark_deep_tone_05",
-    "nombre": "Dark Deep Tone 5",
+    "nombre": "Male_Dark Deep Tone 5",
     "imagen_base": "system/bodies/male_bodies/body_male_dark_deep.webp",
+    "gender":"man",
+    "tone": 5,
     "color": "#997667"
   }
 ]
