@@ -37,9 +37,17 @@
     "tone": 0,
     "color": "#f9e5de"
   },
+   {
+    "id": "light_honey_tone_02",
+    "nombre": "Man Light Honey Tone 2",
+    "imagen_base": "system/bodies/male_bodies/body_male_light_honey.webp",
+    "gender":"man",
+    "tone": 1,
+    "color": "#e8beac"
+  },
   {
     "id": "Man_dark_deep_tone_05",
-    "nombre": "Male_Dark Deep Tone 5",
+    "nombre": "Male Dark Deep Tone 5",
     "imagen_base": "system/bodies/male_bodies/body_male_dark_deep.webp",
     "gender":"man",
     "tone": 4,
